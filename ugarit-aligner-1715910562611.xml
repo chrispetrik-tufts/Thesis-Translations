@@ -1,0 +1,253 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>ναῖε</text>
+				<refs nrefs='2-2 2-3 | 3-2 3-3'></refs>
+			</w>
+			<w n='1-2'>
+				<text>δὲ</text>
+				<refs nrefs='2-1 | 3-1'></refs>
+			</w>
+			<w n='1-3'>
+				<text>Σατνιόεντος</text>
+				<refs nrefs='2-4 2-5 | 3-4 3-5'></refs>
+			</w>
+			<w n='1-4'>
+				<text>ὅτι</text>
+				<refs nrefs='2-7 | 3-6'></refs>
+			</w>
+			<w n='1-5'>
+				<text>Ζηνόδοτος</text>
+				<refs nrefs='2-8 | 3-7'></refs>
+			</w>
+			<w n='1-6'>
+				<text>γράφει</text>
+				<refs nrefs='2-9 | 3-8'></refs>
+			</w>
+			<w n='1-7'>
+				<text>ὃς</text>
+				<refs nrefs='2-11 2-12 | 3-10'></refs>
+			</w>
+			<w n='1-8'>
+				<text>ναῖε</text>
+				<refs nrefs='2-13 | 3-11'></refs>
+			</w>
+			<w n='1-9'>
+				<text>Σατνιόεντος</text>
+				<refs nrefs='2-14 2-15 | 3-12 3-13'></refs>
+			</w>
+			<w n='1-10'>
+				<text>ὁ</text>
+				<refs nrefs='2-17 | 3-15'></refs>
+			</w>
+			<w n='1-11'>
+				<text>Ἔλατος</text>
+				<refs nrefs='2-17 | 3-15'></refs>
+			</w>
+			<w n='1-12'>
+				<text>.</text>
+				<refs nrefs='2-18 | 3-17'></refs>
+			</w>
+			<w n='1-13'>
+				<text>κακόφωνον</text>
+				<refs nrefs='2-22 | 3-21'></refs>
+			</w>
+			<w n='1-14'>
+				<text>δὲ</text>
+				<refs nrefs='2-19 | 3-18'></refs>
+			</w>
+			<w n='1-15'>
+				<text>γίνεται</text>
+				<refs nrefs='2-20 2-21 | 3-19 3-20'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>And</text>
+				<refs nrefs='1-2 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>he</text>
+				<refs nrefs='1-1 | 3-2 3-3'></refs>
+			</w>
+			<w n='2-3'>
+				<text>dwelt</text>
+				<refs nrefs='1-1 | 3-2 3-3'></refs>
+			</w>
+			<w n='2-4'>
+				<text>at</text>
+				<refs nrefs='1-3 | 3-4 3-5'></refs>
+			</w>
+			<w n='2-5'>
+				<text>Satnioenta</text>
+				<refs nrefs='1-3 | 3-4 3-5'></refs>
+			</w>
+			<w n='2-6'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>because</text>
+				<refs nrefs='1-4 | 3-6'></refs>
+			</w>
+			<w n='2-8'>
+				<text>Zenodotus</text>
+				<refs nrefs='1-5 | 3-7'></refs>
+			</w>
+			<w n='2-9'>
+				<text>writes</text>
+				<refs nrefs='1-6 | 3-8'></refs>
+			</w>
+			<w n='2-10'>
+				<text>that</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-11'>
+				<text>he</text>
+				<refs nrefs='1-7 | 3-10'></refs>
+			</w>
+			<w n='2-12'>
+				<text>who</text>
+				<refs nrefs='1-7 | 3-10'></refs>
+			</w>
+			<w n='2-13'>
+				<text>dwelt</text>
+				<refs nrefs='1-8 | 3-11'></refs>
+			</w>
+			<w n='2-14'>
+				<text>at</text>
+				<refs nrefs='1-9 | 3-12 3-13'></refs>
+			</w>
+			<w n='2-15'>
+				<text>Satnioenta</text>
+				<refs nrefs='1-9 | 3-12 3-13'></refs>
+			</w>
+			<w n='2-16'>
+				<text>was</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-17'>
+				<text>Elatus</text>
+				<refs nrefs='1-10 1-11 | 3-15'></refs>
+			</w>
+			<w n='2-18'>
+				<text>.</text>
+				<refs nrefs='1-12 | 3-17'></refs>
+			</w>
+			<w n='2-19'>
+				<text>And</text>
+				<refs nrefs='1-14 | 3-18'></refs>
+			</w>
+			<w n='2-20'>
+				<text>it</text>
+				<refs nrefs='1-15 | 3-19 3-20'></refs>
+			</w>
+			<w n='2-21'>
+				<text>becomes</text>
+				<refs nrefs='1-15 | 3-19 3-20'></refs>
+			</w>
+			<w n='2-22'>
+				<text>discordant</text>
+				<refs nrefs='1-13 | 3-21'></refs>
+			</w>
+			<w n='2-23'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>And</text>
+				<refs nrefs='1-2 | 2-1'></refs>
+			</w>
+			<w n='3-2'>
+				<text>he</text>
+				<refs nrefs='1-1 | 2-2 2-3'></refs>
+			</w>
+			<w n='3-3'>
+				<text>lived</text>
+				<refs nrefs='1-1 | 2-2 2-3'></refs>
+			</w>
+			<w n='3-4'>
+				<text>on</text>
+				<refs nrefs='1-3 | 2-4 2-5'></refs>
+			</w>
+			<w n='3-5'>
+				<text>Satnioeis</text>
+				<refs nrefs='1-3 | 2-4 2-5'></refs>
+			</w>
+			<w n='3-6'>
+				<text>-</text>
+				<refs nrefs='1-4 | 2-7'></refs>
+			</w>
+			<w n='3-7'>
+				<text>Zenodotus</text>
+				<refs nrefs='1-5 | 2-8'></refs>
+			</w>
+			<w n='3-8'>
+				<text>writes</text>
+				<refs nrefs='1-6 | 2-9'></refs>
+			</w>
+			<w n='3-9'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-10'>
+				<text>who</text>
+				<refs nrefs='1-7 | 2-11 2-12'></refs>
+			</w>
+			<w n='3-11'>
+				<text>lived</text>
+				<refs nrefs='1-8 | 2-13'></refs>
+			</w>
+			<w n='3-12'>
+				<text>on</text>
+				<refs nrefs='1-9 | 2-14 2-15'></refs>
+			</w>
+			<w n='3-13'>
+				<text>Satnioeis</text>
+				<refs nrefs='1-9 | 2-14 2-15'></refs>
+			</w>
+			<w n='3-14'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-15'>
+				<text>Elatus</text>
+				<refs nrefs='1-10 1-11 | 2-17'></refs>
+			</w>
+			<w n='3-16'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-17'>
+				<text>.</text>
+				<refs nrefs='1-12 | 2-18'></refs>
+			</w>
+			<w n='3-18'>
+				<text>But</text>
+				<refs nrefs='1-14 | 2-19'></refs>
+			</w>
+			<w n='3-19'>
+				<text>it</text>
+				<refs nrefs='1-15 | 2-20 2-21'></refs>
+			</w>
+			<w n='3-20'>
+				<text>becomes</text>
+				<refs nrefs='1-15 | 2-20 2-21'></refs>
+			</w>
+			<w n='3-21'>
+				<text>cacophonous</text>
+				<refs nrefs='1-13 | 2-22'></refs>
+			</w>
+			<w n='3-22'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

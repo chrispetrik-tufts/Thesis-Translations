@@ -1,0 +1,197 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>οτι</text>
+				<refs nrefs='2-1 | 3-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>ελλειπει</text>
+				<refs nrefs='2-5 2-6 2-7 | 3-8 3-9'></refs>
+			</w>
+			<w n='1-3'>
+				<text>ἡ</text>
+				<refs nrefs='2-2 2-3 2-4 | 3-2 3-3 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='1-4'>
+				<text>δια</text>
+				<refs nrefs='2-2 2-3 2-4 | 3-2 3-3 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='1-5'>
+				<text>ἵν</text>
+				<refs nrefs='2-10 2-9 | 3-11 3-12'></refs>
+			</w>
+			<w n='1-6'>
+				<text>ᾖ</text>
+				<refs nrefs='2-11 2-12 2-13 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='1-7'>
+				<text>δια</text>
+				<refs nrefs='2-14 | 3-17'></refs>
+			</w>
+			<w n='1-8'>
+				<text>πεδιου</text>
+				<refs nrefs='2-15 2-16 | 3-19'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>because</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>'</text>
+				<refs nrefs='1-3 1-4 | 3-2 3-3 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-3'>
+				<text>through</text>
+				<refs nrefs='1-3 1-4 | 3-2 3-3 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-4'>
+				<text>'</text>
+				<refs nrefs='1-3 1-4 | 3-2 3-3 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-5'>
+				<text>is</text>
+				<refs nrefs='1-2 | 3-8 3-9'></refs>
+			</w>
+			<w n='2-6'>
+				<text>missing</text>
+				<refs nrefs='1-2 | 3-8 3-9'></refs>
+			</w>
+			<w n='2-7'>
+				<text>for</text>
+				<refs nrefs='1-2 | 3-8 3-9'></refs>
+			</w>
+			<w n='2-8'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-9'>
+				<text>so</text>
+				<refs nrefs='1-5 | 3-11 3-12'></refs>
+			</w>
+			<w n='2-10'>
+				<text>that</text>
+				<refs nrefs='1-5 | 3-11 3-12'></refs>
+			</w>
+			<w n='2-11'>
+				<text>it</text>
+				<refs nrefs='1-6 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='2-12'>
+				<text>might</text>
+				<refs nrefs='1-6 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='2-13'>
+				<text>be</text>
+				<refs nrefs='1-6 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='2-14'>
+				<text>through</text>
+				<refs nrefs='1-7 | 3-17'></refs>
+			</w>
+			<w n='2-15'>
+				<text>a</text>
+				<refs nrefs='1-8 | 3-19'></refs>
+			</w>
+			<w n='2-16'>
+				<text>plain</text>
+				<refs nrefs='1-8 | 3-19'></refs>
+			</w>
+			<w n='2-17'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>That</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-2'>
+				<text>'</text>
+				<refs nrefs='1-3 1-4 | 2-2 2-3 2-4'></refs>
+			</w>
+			<w n='3-3'>
+				<text>dia</text>
+				<refs nrefs='1-3 1-4 | 2-2 2-3 2-4'></refs>
+			</w>
+			<w n='3-4'>
+				<text>'</text>
+				<refs nrefs='1-3 1-4 | 2-2 2-3 2-4'></refs>
+			</w>
+			<w n='3-5'>
+				<text>(</text>
+				<refs nrefs='1-3 1-4 | 2-2 2-3 2-4'></refs>
+			</w>
+			<w n='3-6'>
+				<text>through</text>
+				<refs nrefs='1-3 1-4 | 2-2 2-3 2-4'></refs>
+			</w>
+			<w n='3-7'>
+				<text>)</text>
+				<refs nrefs='1-3 1-4 | 2-2 2-3 2-4'></refs>
+			</w>
+			<w n='3-8'>
+				<text>is</text>
+				<refs nrefs='1-2 | 2-5 2-6 2-7'></refs>
+			</w>
+			<w n='3-9'>
+				<text>omitted</text>
+				<refs nrefs='1-2 | 2-5 2-6 2-7'></refs>
+			</w>
+			<w n='3-10'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-11'>
+				<text>so</text>
+				<refs nrefs='1-5 | 2-10 2-9'></refs>
+			</w>
+			<w n='3-12'>
+				<text>that</text>
+				<refs nrefs='1-5 | 2-10 2-9'></refs>
+			</w>
+			<w n='3-13'>
+				<text>it</text>
+				<refs nrefs='1-6 | 2-11 2-12 2-13'></refs>
+			</w>
+			<w n='3-14'>
+				<text>should</text>
+				<refs nrefs='1-6 | 2-11 2-12 2-13'></refs>
+			</w>
+			<w n='3-15'>
+				<text>be</text>
+				<refs nrefs='1-6 | 2-11 2-12 2-13'></refs>
+			</w>
+			<w n='3-16'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-17'>
+				<text>through</text>
+				<refs nrefs='1-7 | 2-14'></refs>
+			</w>
+			<w n='3-18'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-19'>
+				<text>plain</text>
+				<refs nrefs='1-8 | 2-15 2-16'></refs>
+			</w>
+			<w n='3-20'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-21'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

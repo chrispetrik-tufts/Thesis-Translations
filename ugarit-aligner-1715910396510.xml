@@ -1,0 +1,301 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>αὐτὸν</text>
+				<refs nrefs='2-1 | 3-3'></refs>
+			</w>
+			<w n='1-2'>
+				<text>καὶ</text>
+				<refs nrefs='2-2 | 3-4'></refs>
+			</w>
+			<w n='1-3'>
+				<text>θεράποντα</text>
+				<refs nrefs='2-4 | 3-6'></refs>
+			</w>
+			<w n='1-4'>
+				<text>Καλήσιον</text>
+				<refs nrefs='2-5 | 3-7'></refs>
+			</w>
+			<w n='1-5'>
+				<text>ὅτι</text>
+				<refs nrefs='2-7 | 3-10'></refs>
+			</w>
+			<w n='1-6'>
+				<text>ὀνοματοθετικῶς</text>
+				<refs nrefs='2-10 2-11 2-12 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='1-7'>
+				<text>ὁ</text>
+				<refs nrefs='2-8 | 3-11'></refs>
+			</w>
+			<w n='1-8'>
+				<text>ποιητης</text>
+				<refs nrefs='2-9 | 3-12'></refs>
+			</w>
+			<w n='1-9'>
+				<text>ἀπο</text>
+				<refs nrefs='2-13 2-14 | 3-18'></refs>
+			</w>
+			<w n='1-10'>
+				<text>γὰρ</text>
+				<refs nrefs=' | 3-17'></refs>
+			</w>
+			<w n='1-11'>
+				<text>του</text>
+				<refs nrefs='2-15 2-16 2-17 2-18 2-19 2-20 2-21 | 3-19'></refs>
+			</w>
+			<w n='1-12'>
+				<text>καλεῖν</text>
+				<refs nrefs='2-15 2-16 2-17 2-18 2-19 2-20 2-21 | 3-19'></refs>
+			</w>
+			<w n='1-13'>
+				<text>ἐπι</text>
+				<refs nrefs='2-23 | 3-20'></refs>
+			</w>
+			<w n='1-14'>
+				<text>τὰ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-15'>
+				<text>ξένια</text>
+				<refs nrefs='2-24 | 3-21'></refs>
+			</w>
+			<w n='1-16'>
+				<text>Καλήσιος</text>
+				<refs nrefs='2-29 | 3-26'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Himself</text>
+				<refs nrefs='1-1 | 3-3'></refs>
+			</w>
+			<w n='2-2'>
+				<text>and</text>
+				<refs nrefs='1-2 | 3-4'></refs>
+			</w>
+			<w n='2-3'>
+				<text>his</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-4'>
+				<text>servant</text>
+				<refs nrefs='1-3 | 3-6'></refs>
+			</w>
+			<w n='2-5'>
+				<text>Calesius</text>
+				<refs nrefs='1-4 | 3-7'></refs>
+			</w>
+			<w n='2-6'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>because</text>
+				<refs nrefs='1-5 | 3-10'></refs>
+			</w>
+			<w n='2-8'>
+				<text>the</text>
+				<refs nrefs='1-7 | 3-11'></refs>
+			</w>
+			<w n='2-9'>
+				<text>poet</text>
+				<refs nrefs='1-8 | 3-12'></refs>
+			</w>
+			<w n='2-10'>
+				<text>uses</text>
+				<refs nrefs='1-6 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='2-11'>
+				<text>a</text>
+				<refs nrefs='1-6 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='2-12'>
+				<text>name</text>
+				<refs nrefs='1-6 | 3-13 3-14 3-15'></refs>
+			</w>
+			<w n='2-13'>
+				<text>derived</text>
+				<refs nrefs='1-9 | 3-18'></refs>
+			</w>
+			<w n='2-14'>
+				<text>from</text>
+				<refs nrefs='1-9 | 3-18'></refs>
+			</w>
+			<w n='2-15'>
+				<text>'</text>
+				<refs nrefs='1-11 1-12 | 3-19'></refs>
+			</w>
+			<w n='2-16'>
+				<text>καλεῖν</text>
+				<refs nrefs='1-11 1-12 | 3-19'></refs>
+			</w>
+			<w n='2-17'>
+				<text>'</text>
+				<refs nrefs='1-11 1-12 | 3-19'></refs>
+			</w>
+			<w n='2-18'>
+				<text>(</text>
+				<refs nrefs='1-11 1-12 | 3-19'></refs>
+			</w>
+			<w n='2-19'>
+				<text>to</text>
+				<refs nrefs='1-11 1-12 | 3-19'></refs>
+			</w>
+			<w n='2-20'>
+				<text>call</text>
+				<refs nrefs='1-11 1-12 | 3-19'></refs>
+			</w>
+			<w n='2-21'>
+				<text>)</text>
+				<refs nrefs='1-11 1-12 | 3-19'></refs>
+			</w>
+			<w n='2-22'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-23'>
+				<text>for</text>
+				<refs nrefs='1-13 | 3-20'></refs>
+			</w>
+			<w n='2-24'>
+				<text>hospitality</text>
+				<refs nrefs='1-15 | 3-21'></refs>
+			</w>
+			<w n='2-25'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-26'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-27'>
+				<text>thus</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-28'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-29'>
+				<text>Calesius</text>
+				<refs nrefs='1-16 | 3-26'></refs>
+			</w>
+			<w n='2-30'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-2'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-3'>
+				<text>Himself</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-4'>
+				<text>and</text>
+				<refs nrefs='1-2 | 2-2'></refs>
+			</w>
+			<w n='3-5'>
+				<text>his</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-6'>
+				<text>attendant</text>
+				<refs nrefs='1-3 | 2-4'></refs>
+			</w>
+			<w n='3-7'>
+				<text>Calesius</text>
+				<refs nrefs='1-4 | 2-5'></refs>
+			</w>
+			<w n='3-8'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-9'>
+				<text>-</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-10'>
+				<text>because</text>
+				<refs nrefs='1-5 | 2-7'></refs>
+			</w>
+			<w n='3-11'>
+				<text>the</text>
+				<refs nrefs='1-7 | 2-8'></refs>
+			</w>
+			<w n='3-12'>
+				<text>poet</text>
+				<refs nrefs='1-8 | 2-9'></refs>
+			</w>
+			<w n='3-13'>
+				<text>named</text>
+				<refs nrefs='1-6 | 2-10 2-11 2-12'></refs>
+			</w>
+			<w n='3-14'>
+				<text>him</text>
+				<refs nrefs='1-6 | 2-10 2-11 2-12'></refs>
+			</w>
+			<w n='3-15'>
+				<text>descriptively</text>
+				<refs nrefs='1-6 | 2-10 2-11 2-12'></refs>
+			</w>
+			<w n='3-16'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-17'>
+				<text>for</text>
+				<refs nrefs='1-10 | '></refs>
+			</w>
+			<w n='3-18'>
+				<text>from</text>
+				<refs nrefs='1-9 | 2-13 2-14'></refs>
+			</w>
+			<w n='3-19'>
+				<text>calling</text>
+				<refs nrefs='1-11 1-12 | 2-15 2-16 2-17 2-18 2-19 2-20 2-21'></refs>
+			</w>
+			<w n='3-20'>
+				<text>to</text>
+				<refs nrefs='1-13 | 2-23'></refs>
+			</w>
+			<w n='3-21'>
+				<text>hospitality</text>
+				<refs nrefs='1-15 | 2-24'></refs>
+			</w>
+			<w n='3-22'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-23'>
+				<text>he</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-24'>
+				<text>is</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-25'>
+				<text>named</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-26'>
+				<text>Calesius</text>
+				<refs nrefs='1-16 | 2-29'></refs>
+			</w>
+			<w n='3-27'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

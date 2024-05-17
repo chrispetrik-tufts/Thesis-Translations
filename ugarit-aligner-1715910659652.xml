@@ -1,0 +1,45 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>ἡ</text>
+				<refs nrefs='2-1 | 3-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>βαρβαρέη</text>
+				<refs nrefs='2-2 2-3 | 3-2 3-3'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>The</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>barbarian</text>
+				<refs nrefs='1-2 | 3-2 3-3'></refs>
+			</w>
+			<w n='2-3'>
+				<text>woman</text>
+				<refs nrefs='1-2 | 3-2 3-3'></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>the</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-2'>
+				<text>barbarian</text>
+				<refs nrefs='1-2 | 2-2 2-3'></refs>
+			</w>
+			<w n='3-3'>
+				<text>language</text>
+				<refs nrefs='1-2 | 2-2 2-3'></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

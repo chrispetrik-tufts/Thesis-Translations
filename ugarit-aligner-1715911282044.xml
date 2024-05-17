@@ -1,0 +1,245 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>κέρδιστος</text>
+				<refs nrefs='2-1 2-2 | 3-2 3-3 3-4'></refs>
+			</w>
+			<w n='1-2'>
+				<text>συνετώτατος</text>
+				<refs nrefs='2-4 2-5 | 3-6 3-7'></refs>
+			</w>
+			<w n='1-3'>
+				<text>ἐντρεχέστατος</text>
+				<refs nrefs='2-7 2-8 | 3-9'></refs>
+			</w>
+			<w n='1-4'>
+				<text>.</text>
+				<refs nrefs='2-9 | 3-15'></refs>
+			</w>
+			<w n='1-5'>
+				<text>οὐ</text>
+				<refs nrefs='2-13 | 3-19'></refs>
+			</w>
+			<w n='1-6'>
+				<text>γὰρ</text>
+				<refs nrefs='2-10 | 3-16'></refs>
+			</w>
+			<w n='1-7'>
+				<text>ἂν</text>
+				<refs nrefs='2-11 2-12 2-14 | 3-17 3-18 3-20'></refs>
+			</w>
+			<w n='1-8'>
+				<text>τον</text>
+				<refs nrefs='2-15 2-16 | 3-21 3-22'></refs>
+			</w>
+			<w n='1-9'>
+				<text>προγονον</text>
+				<refs nrefs='2-15 2-16 | 3-21 3-22'></refs>
+			</w>
+			<w n='1-10'>
+				<text>αυτου</text>
+				<refs nrefs='2-15 2-16 | 3-21 3-22'></refs>
+			</w>
+			<w n='1-11'>
+				<text>πανουργότατον</text>
+				<refs nrefs='2-17 2-18 2-19 | 3-23 3-24 3-25 3-26'></refs>
+			</w>
+			<w n='1-12'>
+				<text>ἔλεγεν</text>
+				<refs nrefs='2-11 2-12 2-14 | 3-17 3-18 3-20'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Most</text>
+				<refs nrefs='1-1 | 3-2 3-3 3-4'></refs>
+			</w>
+			<w n='2-2'>
+				<text>profitable</text>
+				<refs nrefs='1-1 | 3-2 3-3 3-4'></refs>
+			</w>
+			<w n='2-3'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-4'>
+				<text>most</text>
+				<refs nrefs='1-2 | 3-6 3-7'></refs>
+			</w>
+			<w n='2-5'>
+				<text>prudent</text>
+				<refs nrefs='1-2 | 3-6 3-7'></refs>
+			</w>
+			<w n='2-6'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>most</text>
+				<refs nrefs='1-3 | 3-9'></refs>
+			</w>
+			<w n='2-8'>
+				<text>active</text>
+				<refs nrefs='1-3 | 3-9'></refs>
+			</w>
+			<w n='2-9'>
+				<text>.</text>
+				<refs nrefs='1-4 | 3-15'></refs>
+			</w>
+			<w n='2-10'>
+				<text>For</text>
+				<refs nrefs='1-6 | 3-16'></refs>
+			</w>
+			<w n='2-11'>
+				<text>he</text>
+				<refs nrefs='1-12 1-7 | 3-17 3-18 3-20'></refs>
+			</w>
+			<w n='2-12'>
+				<text>would</text>
+				<refs nrefs='1-12 1-7 | 3-17 3-18 3-20'></refs>
+			</w>
+			<w n='2-13'>
+				<text>not</text>
+				<refs nrefs='1-5 | 3-19'></refs>
+			</w>
+			<w n='2-14'>
+				<text>call</text>
+				<refs nrefs='1-12 1-7 | 3-17 3-18 3-20'></refs>
+			</w>
+			<w n='2-15'>
+				<text>his</text>
+				<refs nrefs='1-10 1-8 1-9 | 3-21 3-22'></refs>
+			</w>
+			<w n='2-16'>
+				<text>ancestor</text>
+				<refs nrefs='1-10 1-8 1-9 | 3-21 3-22'></refs>
+			</w>
+			<w n='2-17'>
+				<text>the</text>
+				<refs nrefs='1-11 | 3-23 3-24 3-25 3-26'></refs>
+			</w>
+			<w n='2-18'>
+				<text>most</text>
+				<refs nrefs='1-11 | 3-23 3-24 3-25 3-26'></refs>
+			</w>
+			<w n='2-19'>
+				<text>cunning</text>
+				<refs nrefs='1-11 | 3-23 3-24 3-25 3-26'></refs>
+			</w>
+			<w n='2-20'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-2'>
+				<text>"</text>
+				<refs nrefs='1-1 | 2-1 2-2'></refs>
+			</w>
+			<w n='3-3'>
+				<text>Kerdistos</text>
+				<refs nrefs='1-1 | 2-1 2-2'></refs>
+			</w>
+			<w n='3-4'>
+				<text>"</text>
+				<refs nrefs='1-1 | 2-1 2-2'></refs>
+			</w>
+			<w n='3-5'>
+				<text>-</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-6'>
+				<text>very</text>
+				<refs nrefs='1-2 | 2-4 2-5'></refs>
+			</w>
+			<w n='3-7'>
+				<text>wise</text>
+				<refs nrefs='1-2 | 2-4 2-5'></refs>
+			</w>
+			<w n='3-8'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-9'>
+				<text>skilled</text>
+				<refs nrefs='1-3 | 2-7 2-8'></refs>
+			</w>
+			<w n='3-10'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-11'>
+				<text>not</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-12'>
+				<text>at</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-13'>
+				<text>all</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-14'>
+				<text>roguish</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-15'>
+				<text>.</text>
+				<refs nrefs='1-4 | 2-9'></refs>
+			</w>
+			<w n='3-16'>
+				<text>For</text>
+				<refs nrefs='1-6 | 2-10'></refs>
+			</w>
+			<w n='3-17'>
+				<text>he</text>
+				<refs nrefs='1-12 1-7 | 2-11 2-12 2-14'></refs>
+			</w>
+			<w n='3-18'>
+				<text>would</text>
+				<refs nrefs='1-12 1-7 | 2-11 2-12 2-14'></refs>
+			</w>
+			<w n='3-19'>
+				<text>not</text>
+				<refs nrefs='1-5 | 2-13'></refs>
+			</w>
+			<w n='3-20'>
+				<text>call</text>
+				<refs nrefs='1-12 1-7 | 2-11 2-12 2-14'></refs>
+			</w>
+			<w n='3-21'>
+				<text>his</text>
+				<refs nrefs='1-10 1-8 1-9 | 2-15 2-16'></refs>
+			</w>
+			<w n='3-22'>
+				<text>ancestor</text>
+				<refs nrefs='1-10 1-8 1-9 | 2-15 2-16'></refs>
+			</w>
+			<w n='3-23'>
+				<text>"</text>
+				<refs nrefs='1-11 | 2-17 2-18 2-19'></refs>
+			</w>
+			<w n='3-24'>
+				<text>very</text>
+				<refs nrefs='1-11 | 2-17 2-18 2-19'></refs>
+			</w>
+			<w n='3-25'>
+				<text>cunning</text>
+				<refs nrefs='1-11 | 2-17 2-18 2-19'></refs>
+			</w>
+			<w n='3-26'>
+				<text>"</text>
+				<refs nrefs='1-11 | 2-17 2-18 2-19'></refs>
+			</w>
+			<w n='3-27'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

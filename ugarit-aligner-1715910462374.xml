@@ -1,0 +1,101 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>οτι</text>
+				<refs nrefs='2-1 | 3-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>αντι</text>
+				<refs nrefs='2-2 | 3-2'></refs>
+			</w>
+			<w n='1-3'>
+				<text>τοῦ</text>
+				<refs nrefs='2-3 | 3-3'></refs>
+			</w>
+			<w n='1-4'>
+				<text>ἐπαισε</text>
+				<refs nrefs='2-4 2-5 2-6 2-7 2-8 | 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='1-5'>
+				<text>:</text>
+				<refs nrefs='2-9 | 3-8'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>because</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>instead</text>
+				<refs nrefs='1-2 | 3-2'></refs>
+			</w>
+			<w n='2-3'>
+				<text>of</text>
+				<refs nrefs='1-3 | 3-3'></refs>
+			</w>
+			<w n='2-4'>
+				<text>'</text>
+				<refs nrefs='1-4 | 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-5'>
+				<text>he</text>
+				<refs nrefs='1-4 | 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-6'>
+				<text>hurled</text>
+				<refs nrefs='1-4 | 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-7'>
+				<text>at</text>
+				<refs nrefs='1-4 | 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-8'>
+				<text>'</text>
+				<refs nrefs='1-4 | 3-4 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-9'>
+				<text>:</text>
+				<refs nrefs='1-5 | 3-8'></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>That</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-2'>
+				<text>instead</text>
+				<refs nrefs='1-2 | 2-2'></refs>
+			</w>
+			<w n='3-3'>
+				<text>of</text>
+				<refs nrefs='1-3 | 2-3'></refs>
+			</w>
+			<w n='3-4'>
+				<text>'</text>
+				<refs nrefs='1-4 | 2-4 2-5 2-6 2-7 2-8'></refs>
+			</w>
+			<w n='3-5'>
+				<text>he</text>
+				<refs nrefs='1-4 | 2-4 2-5 2-6 2-7 2-8'></refs>
+			</w>
+			<w n='3-6'>
+				<text>struck</text>
+				<refs nrefs='1-4 | 2-4 2-5 2-6 2-7 2-8'></refs>
+			</w>
+			<w n='3-7'>
+				<text>'</text>
+				<refs nrefs='1-4 | 2-4 2-5 2-6 2-7 2-8'></refs>
+			</w>
+			<w n='3-8'>
+				<text>.</text>
+				<refs nrefs='1-5 | 2-9'></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

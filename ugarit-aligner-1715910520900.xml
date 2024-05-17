@@ -1,0 +1,33 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>τὸν</text>
+				<refs nrefs='2-1 | '></refs>
+			</w>
+			<w n='1-2'>
+				<text>Βουκολίονα</text>
+				<refs nrefs='2-2 | 3-1'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>the</text>
+				<refs nrefs='1-1 | '></refs>
+			</w>
+			<w n='2-2'>
+				<text>Bucolian</text>
+				<refs nrefs='1-2 | 3-1'></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>Boukolion</text>
+				<refs nrefs='1-2 | 2-2'></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

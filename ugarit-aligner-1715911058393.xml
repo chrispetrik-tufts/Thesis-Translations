@@ -1,0 +1,245 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>διχῶς</text>
+				<refs nrefs='2-5 2-6 2-7 | 3-1 3-2 3-3'></refs>
+			</w>
+			<w n='1-2'>
+				<text>Ἀρίσταρχος</text>
+				<refs nrefs='2-1 | 3-4'></refs>
+			</w>
+			<w n='1-3'>
+				<text>καὶ</text>
+				<refs nrefs='2-9 | 3-10'></refs>
+			</w>
+			<w n='1-4'>
+				<text>δια</text>
+				<refs nrefs='2-10 | 3-11'></refs>
+			</w>
+			<w n='1-5'>
+				<text>του</text>
+				<refs nrefs='2-11 2-13 | '></refs>
+			</w>
+			<w n='1-6'>
+				<text>κετ</text>
+				<refs nrefs='2-12 | 3-12 3-13'></refs>
+			</w>
+			<w n='1-7'>
+				<text>ὅφρα</text>
+				<refs nrefs='2-12 | 3-12 3-13'></refs>
+			</w>
+			<w n='1-8'>
+				<text>κ</text>
+				<refs nrefs='2-12 | 3-12 3-13'></refs>
+			</w>
+			<w n='1-9'>
+				<text>'</text>
+				<refs nrefs='2-12 | 3-12 3-13'></refs>
+			</w>
+			<w n='1-10'>
+				<text>εγω</text>
+				<refs nrefs='2-12 | 3-12 3-13'></refs>
+			</w>
+			<w n='1-11'>
+				<text>καὶ</text>
+				<refs nrefs='2-22 | 3-14'></refs>
+			</w>
+			<w n='1-12'>
+				<text>δια</text>
+				<refs nrefs='2-23 | 3-15'></refs>
+			</w>
+			<w n='1-13'>
+				<text>του</text>
+				<refs nrefs='2-24 2-26 | '></refs>
+			</w>
+			<w n='1-14'>
+				<text>ἂν</text>
+				<refs nrefs='2-25 | 3-16'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Aristarchus</text>
+				<refs nrefs='1-2 | 3-4'></refs>
+			</w>
+			<w n='2-2'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-3'>
+				<text>interprets</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-4'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-5'>
+				<text>in</text>
+				<refs nrefs='1-1 | 3-1 3-2 3-3'></refs>
+			</w>
+			<w n='2-6'>
+				<text>two</text>
+				<refs nrefs='1-1 | 3-1 3-2 3-3'></refs>
+			</w>
+			<w n='2-7'>
+				<text>ways</text>
+				<refs nrefs='1-1 | 3-1 3-2 3-3'></refs>
+			</w>
+			<w n='2-8'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-9'>
+				<text>both</text>
+				<refs nrefs='1-3 | 3-10'></refs>
+			</w>
+			<w n='2-10'>
+				<text>through</text>
+				<refs nrefs='1-4 | 3-11'></refs>
+			</w>
+			<w n='2-11'>
+				<text>'</text>
+				<refs nrefs='1-5 | '></refs>
+			</w>
+			<w n='2-12'>
+				<text>ket</text>
+				<refs nrefs='1-10 1-6 1-7 1-8 1-9 | 3-12 3-13'></refs>
+			</w>
+			<w n='2-13'>
+				<text>'</text>
+				<refs nrefs='1-5 | '></refs>
+			</w>
+			<w n='2-14'>
+				<text>so</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-15'>
+				<text>that</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-16'>
+				<text>I</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-17'>
+				<text>may</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-18'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-19'>
+				<text>also</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-20'>
+				<text>interpret</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-21'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-22'>
+				<text>and</text>
+				<refs nrefs='1-11 | 3-14'></refs>
+			</w>
+			<w n='2-23'>
+				<text>through</text>
+				<refs nrefs='1-12 | 3-15'></refs>
+			</w>
+			<w n='2-24'>
+				<text>'</text>
+				<refs nrefs='1-13 | '></refs>
+			</w>
+			<w n='2-25'>
+				<text>an</text>
+				<refs nrefs='1-14 | 3-16'></refs>
+			</w>
+			<w n='2-26'>
+				<text>'</text>
+				<refs nrefs='1-13 | '></refs>
+			</w>
+			<w n='2-27'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>In</text>
+				<refs nrefs='1-1 | 2-5 2-6 2-7'></refs>
+			</w>
+			<w n='3-2'>
+				<text>two</text>
+				<refs nrefs='1-1 | 2-5 2-6 2-7'></refs>
+			</w>
+			<w n='3-3'>
+				<text>ways</text>
+				<refs nrefs='1-1 | 2-5 2-6 2-7'></refs>
+			</w>
+			<w n='3-4'>
+				<text>Aristarchus</text>
+				<refs nrefs='1-2 | 2-1'></refs>
+			</w>
+			<w n='3-5'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-6'>
+				<text>reads</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-7'>
+				<text>it</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-8'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-9'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-10'>
+				<text>both</text>
+				<refs nrefs='1-3 | 2-9'></refs>
+			</w>
+			<w n='3-11'>
+				<text>through</text>
+				<refs nrefs='1-4 | 2-10'></refs>
+			</w>
+			<w n='3-12'>
+				<text>‘ophe</text>
+				<refs nrefs='1-10 1-6 1-7 1-8 1-9 | 2-12'></refs>
+			</w>
+			<w n='3-13'>
+				<text>ka’</text>
+				<refs nrefs='1-10 1-6 1-7 1-8 1-9 | 2-12'></refs>
+			</w>
+			<w n='3-14'>
+				<text>and</text>
+				<refs nrefs='1-11 | 2-22'></refs>
+			</w>
+			<w n='3-15'>
+				<text>through</text>
+				<refs nrefs='1-12 | 2-23'></refs>
+			</w>
+			<w n='3-16'>
+				<text>‘an’</text>
+				<refs nrefs='1-14 | 2-25'></refs>
+			</w>
+			<w n='3-17'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

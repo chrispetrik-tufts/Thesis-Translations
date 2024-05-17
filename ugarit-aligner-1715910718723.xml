@@ -1,0 +1,1973 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>νεκροὺς</text>
+				<refs nrefs='2-4 2-5 | 3-3 3-4'></refs>
+			</w>
+			<w n='1-2'>
+				<text>ἀμπεδίον</text>
+				<refs nrefs='2-6 2-7 2-8 | 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='1-3'>
+				<text>συλήσετε</text>
+				<refs nrefs='2-1 2-2 2-3 | '></refs>
+			</w>
+			<w n='1-4'>
+				<text>τεθνῃῶτας</text>
+				<refs nrefs='2-10 2-11 | 3-10 3-9'></refs>
+			</w>
+			<w n='1-5'>
+				<text>οὕτως</text>
+				<refs nrefs='2-13 | 3-13'></refs>
+			</w>
+			<w n='1-6'>
+				<text>Ἀρίσταρχος</text>
+				<refs nrefs='2-15 | 3-14'></refs>
+			</w>
+			<w n='1-7'>
+				<text>ὁ</text>
+				<refs nrefs='2-18 | 3-17'></refs>
+			</w>
+			<w n='1-8'>
+				<text>δε</text>
+				<refs nrefs='2-17 | 3-16'></refs>
+			</w>
+			<w n='1-9'>
+				<text>Ζηνοδοτος</text>
+				<refs nrefs='2-18 | 3-17'></refs>
+			</w>
+			<w n='1-10'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-11'>
+				<text>Τρώων</text>
+				<refs nrefs='2-35 | 3-19 3-20 3-21'></refs>
+			</w>
+			<w n='1-12'>
+				<text>ἀμπεδίον</text>
+				<refs nrefs='2-27 2-28 2-29 | 3-25 3-26'></refs>
+			</w>
+			<w n='1-13'>
+				<text>συλήσωμεν</text>
+				<refs nrefs='2-24 2-25 2-26 | 3-22 3-23 3-24'></refs>
+			</w>
+			<w n='1-14'>
+				<text>ἔντεα</text>
+				<refs nrefs='2-31 | 3-27 3-28'></refs>
+			</w>
+			<w n='1-15'>
+				<text>νεκρούς</text>
+				<refs nrefs='2-32 2-33 2-34 | 3-30 3-31'></refs>
+			</w>
+			<w n='1-16'>
+				<text>:</text>
+				<refs nrefs='2-36 | 3-32'></refs>
+			</w>
+			<w n='1-17'>
+				<text>Ἀθηνοκλέους</text>
+				<refs nrefs='2-38 | 3-35'></refs>
+			</w>
+			<w n='1-18'>
+				<text>δὲ</text>
+				<refs nrefs='2-40 | 3-34'></refs>
+			</w>
+			<w n='1-19'>
+				<text>ἐντῷ</text>
+				<refs nrefs='2-42 2-43 2-44 | 3-36 3-37 3-38'></refs>
+			</w>
+			<w n='1-20'>
+				<text>περι</text>
+				<refs nrefs='2-45 | 3-39'></refs>
+			</w>
+			<w n='1-21'>
+				<text>Ὁμήρου</text>
+				<refs nrefs='2-46 | 3-40'></refs>
+			</w>
+			<w n='1-22'>
+				<text>παρατηρήσαντος</text>
+				<refs nrefs='2-48 | 3-42'></refs>
+			</w>
+			<w n='1-23'>
+				<text>οτι</text>
+				<refs nrefs='2-49 | 3-43'></refs>
+			</w>
+			<w n='1-24'>
+				<text>τῷ</text>
+				<refs nrefs='2-53 2-54 | 3-48 3-49 3-50'></refs>
+			</w>
+			<w n='1-25'>
+				<text>μὲν</text>
+				<refs nrefs='2-52 | '></refs>
+			</w>
+			<w n='1-26'>
+				<text>καμάτῳ</text>
+				<refs nrefs='2-53 2-54 | 3-48 3-49 3-50'></refs>
+			</w>
+			<w n='1-27'>
+				<text>καὶ</text>
+				<refs nrefs='2-56 2-57 | 3-46'></refs>
+			</w>
+			<w n='1-28'>
+				<text>ἑαυτὸν</text>
+				<refs nrefs='2-58 | 3-47'></refs>
+			</w>
+			<w n='1-29'>
+				<text>ὁ</text>
+				<refs nrefs='2-50 | 3-44'></refs>
+			</w>
+			<w n='1-30'>
+				<text>Νέστωρ</text>
+				<refs nrefs='2-50 | 3-44'></refs>
+			</w>
+			<w n='1-31'>
+				<text>ὑποβάλλει</text>
+				<refs nrefs='2-60 | 3-45'></refs>
+			</w>
+			<w n='1-32'>
+				<text>λέγων</text>
+				<refs nrefs='2-61 2-62 2-63 | 3-51 3-52'></refs>
+			</w>
+			<w n='1-33'>
+				<text>κτείνωμεν</text>
+				<refs nrefs='2-64 2-65 2-66 2-67 2-68 2-69 | 3-53 3-54 3-55 3-56 3-57'></refs>
+			</w>
+			<w n='1-34'>
+				<text>:</text>
+				<refs nrefs='2-70 | 3-58'></refs>
+			</w>
+			<w n='1-35'>
+				<text>τὸ</text>
+				<refs nrefs='2-74 | 3-61'></refs>
+			</w>
+			<w n='1-36'>
+				<text>δε</text>
+				<refs nrefs='2-71 | 3-59'></refs>
+			</w>
+			<w n='1-37'>
+				<text>κέρδος</text>
+				<refs nrefs='2-75 | 3-62'></refs>
+			</w>
+			<w n='1-38'>
+				<text>ἴδιον</text>
+				<refs nrefs='2-76 2-77 | 3-67'></refs>
+			</w>
+			<w n='1-39'>
+				<text>ποιεῖται</text>
+				<refs nrefs='2-72 2-73 | 3-60'></refs>
+			</w>
+			<w n='1-40'>
+				<text>τῶν</text>
+				<refs nrefs='2-78 2-79 2-80 | 3-63 3-64 3-65 3-66'></refs>
+			</w>
+			<w n='1-41'>
+				<text>στρατιωτῶν</text>
+				<refs nrefs='2-78 2-79 2-80 | 3-63 3-64 3-65 3-66'></refs>
+			</w>
+			<w n='1-42'>
+				<text>ἐν</text>
+				<refs nrefs='2-81 2-82 2-83 | 3-68 3-69 3-70 3-71 3-72 3-73 3-75'></refs>
+			</w>
+			<w n='1-43'>
+				<text>τῷ</text>
+				<refs nrefs='2-81 2-82 2-83 | 3-68 3-69 3-70 3-71 3-72 3-73 3-75'></refs>
+			</w>
+			<w n='1-44'>
+				<text>συλήσεται</text>
+				<refs nrefs='2-81 2-82 2-83 | 3-68 3-69 3-70 3-71 3-72 3-73 3-75'></refs>
+			</w>
+			<w n='1-45'>
+				<text>:</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-46'>
+				<text>ὄ</text>
+				<refs nrefs='2-85 | '></refs>
+			</w>
+			<w n='1-47'>
+				<text>Χερις</text>
+				<refs nrefs='2-86 | 3-76'></refs>
+			</w>
+			<w n='1-48'>
+				<text>:</text>
+				<refs nrefs='2-87 | '></refs>
+			</w>
+			<w n='1-49'>
+				<text>Ὁμηρικὸν</text>
+				<refs nrefs='2-97 | 3-84'></refs>
+			</w>
+			<w n='1-50'>
+				<text>εἶναι</text>
+				<refs nrefs='2-96 | 3-83'></refs>
+			</w>
+			<w n='1-51'>
+				<text>φησὶ</text>
+				<refs nrefs='2-88 2-89 | 3-77'></refs>
+			</w>
+			<w n='1-52'>
+				<text>τὸν</text>
+				<refs nrefs='2-91 2-92 | 3-78 3-79'></refs>
+			</w>
+			<w n='1-53'>
+				<text>τῆς</text>
+				<refs nrefs='2-93 2-94 2-95 | 3-80 3-81 3-82'></refs>
+			</w>
+			<w n='1-54'>
+				<text>ερμηνείας</text>
+				<refs nrefs='2-93 2-94 2-95 | 3-80 3-81 3-82'></refs>
+			</w>
+			<w n='1-55'>
+				<text>χαρακτῆρα</text>
+				<refs nrefs='2-91 2-92 | 3-78 3-79'></refs>
+			</w>
+			<w n='1-56'>
+				<text>ὡς</text>
+				<refs nrefs='2-98 | 3-86'></refs>
+			</w>
+			<w n='1-57'>
+				<text>ἐν</text>
+				<refs nrefs='2-99 | 3-87'></refs>
+			</w>
+			<w n='1-58'>
+				<text>τούτοις</text>
+				<refs nrefs='2-100 2-101 2-102 2-103 | 3-88 3-89'></refs>
+			</w>
+			<w n='1-59'>
+				<text>:</text>
+				<refs nrefs='2-104 | 3-90'></refs>
+			</w>
+			<w n='1-60'>
+				<text>ἄλλοι</text>
+				<refs nrefs=' | 3-95'></refs>
+			</w>
+			<w n='1-61'>
+				<text>μὲν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-62'>
+				<text>γὰρ</text>
+				<refs nrefs='2-106 | 3-92'></refs>
+			</w>
+			<w n='1-63'>
+				<text>πάντες</text>
+				<refs nrefs='2-107 | 3-93'></refs>
+			</w>
+			<w n='1-64'>
+				<text>ὅσοι</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-65'>
+				<text>θεοί</text>
+				<refs nrefs='2-108 2-109 | 3-96'></refs>
+			</w>
+			<w n='1-66'>
+				<text>εἰς</text>
+				<refs nrefs='2-110 | 3-99'></refs>
+			</w>
+			<w n='1-67'>
+				<text>ἐν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-68'>
+				<text>Ὀλύμπῳ</text>
+				<refs nrefs='2-111 | 3-100'></refs>
+			</w>
+			<w n='1-69'>
+				<text>σοί</text>
+				<refs nrefs='2-113 | 3-102'></refs>
+			</w>
+			<w n='1-70'>
+				<text>τ</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-71'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-72'>
+				<text>ἐπι</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-73'>
+				<text>πιθονται</text>
+				<refs nrefs='2-112 | 3-101'></refs>
+			</w>
+			<w n='1-74'>
+				<text>καὶ</text>
+				<refs nrefs='2-114 | 3-103'></refs>
+			</w>
+			<w n='1-75'>
+				<text>δεδμήμεσθα</text>
+				<refs nrefs='2-115 2-117 2-118 | 3-104 3-105'></refs>
+			</w>
+			<w n='1-76'>
+				<text>ἕκαστος</text>
+				<refs nrefs='2-116 | 3-107 3-108'></refs>
+			</w>
+			<w n='1-77'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-78'>
+				<text>ἔδει</text>
+				<refs nrefs='2-122 2-123 2-124 | 3-112 3-113 3-114'></refs>
+			</w>
+			<w n='1-79'>
+				<text>γὰρ</text>
+				<refs nrefs='2-121 | 3-111'></refs>
+			</w>
+			<w n='1-80'>
+				<text>δέδμηνται</text>
+				<refs nrefs='2-125 2-126 2-127 2-128 | 3-115 3-116 3-117 3-118'></refs>
+			</w>
+			<w n='1-81'>
+				<text>ὡς</text>
+				<refs nrefs='2-129 | 3-119 3-120'></refs>
+			</w>
+			<w n='1-82'>
+				<text>πειθονται</text>
+				<refs nrefs='2-130 2-131 2-132 | 3-121 3-122 3-124'></refs>
+			</w>
+			<w n='1-83'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-84'>
+				<text>ἠ</text>
+				<refs nrefs='2-134 | 3-125'></refs>
+			</w>
+			<w n='1-85'>
+				<text>ἀνάπαλιν</text>
+				<refs nrefs='2-135 | 3-126 3-127'></refs>
+			</w>
+			<w n='1-86'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-87'>
+				<text>καὶ</text>
+				<refs nrefs='2-137 | 3-129'></refs>
+			</w>
+			<w n='1-88'>
+				<text>πάλιν</text>
+				<refs nrefs='2-138 | 3-130'></refs>
+			</w>
+			<w n='1-89'>
+				<text>ἀλλ</text>
+				<refs nrefs='2-140 | 3-133'></refs>
+			</w>
+			<w n='1-90'>
+				<text>ἄγεθ</text>
+				<refs nrefs='2-141 | 3-134'></refs>
+			</w>
+			<w n='1-91'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-92'>
+				<text>ὡς</text>
+				<refs nrefs='2-149 | 3-140'></refs>
+			</w>
+			<w n='1-93'>
+				<text>ἂν</text>
+				<refs nrefs='2-143 2-144 2-145 2-146 | 3-136 3-137 3-139'></refs>
+			</w>
+			<w n='1-94'>
+				<text>ἐγὼ</text>
+				<refs nrefs='2-150 | 3-141'></refs>
+			</w>
+			<w n='1-95'>
+				<text>εἴπω</text>
+				<refs nrefs='2-151 | 3-142'></refs>
+			</w>
+			<w n='1-96'>
+				<text>πειθώμεθα</text>
+				<refs nrefs='2-143 2-144 2-145 2-146 | 3-136 3-137 3-139'></refs>
+			</w>
+			<w n='1-97'>
+				<text>πάντες</text>
+				<refs nrefs='2-147 2-148 | 3-138'></refs>
+			</w>
+			<w n='1-98'>
+				<text>.</text>
+				<refs nrefs='2-152 | 3-143'></refs>
+			</w>
+			<w n='1-99'>
+				<text>νῦν</text>
+				<refs nrefs='2-153 | 3-150'></refs>
+			</w>
+			<w n='1-100'>
+				<text>μὲν</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-101'>
+				<text>δόρπον</text>
+				<refs nrefs='2-156 2-157 | 3-153'></refs>
+			</w>
+			<w n='1-102'>
+				<text>ἕλεσθε</text>
+				<refs nrefs='2-154 | 3-151'></refs>
+			</w>
+			<w n='1-103'>
+				<text>κατὰ</text>
+				<refs nrefs='2-158 | 3-154'></refs>
+			</w>
+			<w n='1-104'>
+				<text>στρατόν</text>
+				<refs nrefs='2-160 | 3-156'></refs>
+			</w>
+			<w n='1-105'>
+				<text>:</text>
+				<refs nrefs='2-162 | 3-157'></refs>
+			</w>
+			<w n='1-106'>
+				<text>και</text>
+				<refs nrefs='2-163 | 3-159'></refs>
+			</w>
+			<w n='1-107'>
+				<text>ἄλλαχοῦ</text>
+				<refs nrefs='2-164 | 3-160'></refs>
+			</w>
+			<w n='1-108'>
+				<text>οὐδὲ</text>
+				<refs nrefs='2-166 | 3-163'></refs>
+			</w>
+			<w n='1-109'>
+				<text>γὰρ</text>
+				<refs nrefs='2-165 | '></refs>
+			</w>
+			<w n='1-110'>
+				<text>ἄλλως</text>
+				<refs nrefs='2-167 | 3-164'></refs>
+			</w>
+			<w n='1-111'>
+				<text>ἀκμάζει</text>
+				<refs nrefs='2-168 2-170 | 3-162 3-165'></refs>
+			</w>
+			<w n='1-112'>
+				<text>ὁ</text>
+				<refs nrefs='2-169 | 3-161'></refs>
+			</w>
+			<w n='1-113'>
+				<text>Νέστωρ</text>
+				<refs nrefs='2-169 | 3-161'></refs>
+			</w>
+			<w n='1-114'>
+				<text>ἀλλ</text>
+				<refs nrefs='2-171 | 3-167'></refs>
+			</w>
+			<w n='1-115'>
+				<text>ὑπὸ</text>
+				<refs nrefs='2-176 | 3-173'></refs>
+			</w>
+			<w n='1-116'>
+				<text>γήρως</text>
+				<refs nrefs='2-177 2-178 | 3-174 3-175'></refs>
+			</w>
+			<w n='1-117'>
+				<text>ἔοικεν</text>
+				<refs nrefs='2-172 | 3-168'></refs>
+			</w>
+			<w n='1-118'>
+				<text>ἀπῃρηκέναι</text>
+				<refs nrefs='2-173 2-174 2-175 | 3-169 3-170 3-171 3-172'></refs>
+			</w>
+			<w n='1-119'>
+				<text>:</text>
+				<refs nrefs='2-179 | 3-176'></refs>
+			</w>
+			<w n='1-120'>
+				<text>ταῦτα</text>
+				<refs nrefs='2-180 | 3-177 3-178'></refs>
+			</w>
+			<w n='1-121'>
+				<text>ὁ</text>
+				<refs nrefs='2-187 | 3-179'></refs>
+			</w>
+			<w n='1-122'>
+				<text>Δίδυμος</text>
+				<refs nrefs='2-187 | 3-179'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>You</text>
+				<refs nrefs='1-3 | '></refs>
+			</w>
+			<w n='2-2'>
+				<text>will</text>
+				<refs nrefs='1-3 | '></refs>
+			</w>
+			<w n='2-3'>
+				<text>gather</text>
+				<refs nrefs='1-3 | '></refs>
+			</w>
+			<w n='2-4'>
+				<text>the</text>
+				<refs nrefs='1-1 | 3-3 3-4'></refs>
+			</w>
+			<w n='2-5'>
+				<text>dead</text>
+				<refs nrefs='1-1 | 3-3 3-4'></refs>
+			</w>
+			<w n='2-6'>
+				<text>in</text>
+				<refs nrefs='1-2 | 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-7'>
+				<text>the</text>
+				<refs nrefs='1-2 | 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-8'>
+				<text>field</text>
+				<refs nrefs='1-2 | 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-9'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-10'>
+				<text>the</text>
+				<refs nrefs='1-4 | 3-10 3-9'></refs>
+			</w>
+			<w n='2-11'>
+				<text>slain</text>
+				<refs nrefs='1-4 | 3-10 3-9'></refs>
+			</w>
+			<w n='2-12'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-13'>
+				<text>thus</text>
+				<refs nrefs='1-5 | 3-13'></refs>
+			</w>
+			<w n='2-14'>
+				<text>says</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-15'>
+				<text>Aristarchus</text>
+				<refs nrefs='1-6 | 3-14'></refs>
+			</w>
+			<w n='2-16'>
+				<text>;</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-17'>
+				<text>but</text>
+				<refs nrefs='1-8 | 3-16'></refs>
+			</w>
+			<w n='2-18'>
+				<text>Zenodotus</text>
+				<refs nrefs='1-7 1-9 | 3-17'></refs>
+			</w>
+			<w n='2-19'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-20'>
+				<text>says</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-21'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-22'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-23'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-24'>
+				<text>Let</text>
+				<refs nrefs='1-13 | 3-22 3-23 3-24'></refs>
+			</w>
+			<w n='2-25'>
+				<text>us</text>
+				<refs nrefs='1-13 | 3-22 3-23 3-24'></refs>
+			</w>
+			<w n='2-26'>
+				<text>gather</text>
+				<refs nrefs='1-13 | 3-22 3-23 3-24'></refs>
+			</w>
+			<w n='2-27'>
+				<text>from</text>
+				<refs nrefs='1-12 | 3-25 3-26'></refs>
+			</w>
+			<w n='2-28'>
+				<text>the</text>
+				<refs nrefs='1-12 | 3-25 3-26'></refs>
+			</w>
+			<w n='2-29'>
+				<text>field</text>
+				<refs nrefs='1-12 | 3-25 3-26'></refs>
+			</w>
+			<w n='2-30'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-31'>
+				<text>arms</text>
+				<refs nrefs='1-14 | 3-27 3-28'></refs>
+			</w>
+			<w n='2-32'>
+				<text>of</text>
+				<refs nrefs='1-15 | 3-30 3-31'></refs>
+			</w>
+			<w n='2-33'>
+				<text>the</text>
+				<refs nrefs='1-15 | 3-30 3-31'></refs>
+			</w>
+			<w n='2-34'>
+				<text>dead</text>
+				<refs nrefs='1-15 | 3-30 3-31'></refs>
+			</w>
+			<w n='2-35'>
+				<text>Trojans</text>
+				<refs nrefs='1-11 | 3-19 3-20 3-21'></refs>
+			</w>
+			<w n='2-36'>
+				<text>.</text>
+				<refs nrefs='1-16 | 3-32'></refs>
+			</w>
+			<w n='2-37'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-38'>
+				<text>Athenocles</text>
+				<refs nrefs='1-17 | 3-35'></refs>
+			</w>
+			<w n='2-39'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-40'>
+				<text>however</text>
+				<refs nrefs='1-18 | 3-34'></refs>
+			</w>
+			<w n='2-41'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-42'>
+				<text>in</text>
+				<refs nrefs='1-19 | 3-36 3-37 3-38'></refs>
+			</w>
+			<w n='2-43'>
+				<text>his</text>
+				<refs nrefs='1-19 | 3-36 3-37 3-38'></refs>
+			</w>
+			<w n='2-44'>
+				<text>observations</text>
+				<refs nrefs='1-19 | 3-36 3-37 3-38'></refs>
+			</w>
+			<w n='2-45'>
+				<text>about</text>
+				<refs nrefs='1-20 | 3-39'></refs>
+			</w>
+			<w n='2-46'>
+				<text>Homer</text>
+				<refs nrefs='1-21 | 3-40'></refs>
+			</w>
+			<w n='2-47'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-48'>
+				<text>notes</text>
+				<refs nrefs='1-22 | 3-42'></refs>
+			</w>
+			<w n='2-49'>
+				<text>that</text>
+				<refs nrefs='1-23 | 3-43'></refs>
+			</w>
+			<w n='2-50'>
+				<text>Nestor</text>
+				<refs nrefs='1-29 1-30 | 3-44'></refs>
+			</w>
+			<w n='2-51'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-52'>
+				<text>indeed</text>
+				<refs nrefs='1-25 | '></refs>
+			</w>
+			<w n='2-53'>
+				<text>with</text>
+				<refs nrefs='1-24 1-26 | 3-48 3-49 3-50'></refs>
+			</w>
+			<w n='2-54'>
+				<text>labor</text>
+				<refs nrefs='1-24 1-26 | 3-48 3-49 3-50'></refs>
+			</w>
+			<w n='2-55'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-56'>
+				<text>and</text>
+				<refs nrefs='1-27 | 3-46'></refs>
+			</w>
+			<w n='2-57'>
+				<text>even</text>
+				<refs nrefs='1-27 | 3-46'></refs>
+			</w>
+			<w n='2-58'>
+				<text>himself</text>
+				<refs nrefs='1-28 | 3-47'></refs>
+			</w>
+			<w n='2-59'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-60'>
+				<text>proposes</text>
+				<refs nrefs='1-31 | 3-45'></refs>
+			</w>
+			<w n='2-61'>
+				<text>[</text>
+				<refs nrefs='1-32 | 3-51 3-52'></refs>
+			</w>
+			<w n='2-62'>
+				<text>saying</text>
+				<refs nrefs='1-32 | 3-51 3-52'></refs>
+			</w>
+			<w n='2-63'>
+				<text>]</text>
+				<refs nrefs='1-32 | 3-51 3-52'></refs>
+			</w>
+			<w n='2-64'>
+				<text>'</text>
+				<refs nrefs='1-33 | 3-53 3-54 3-55 3-56 3-57'></refs>
+			</w>
+			<w n='2-65'>
+				<text>let</text>
+				<refs nrefs='1-33 | 3-53 3-54 3-55 3-56 3-57'></refs>
+			</w>
+			<w n='2-66'>
+				<text>'</text>
+				<refs nrefs='1-33 | 3-53 3-54 3-55 3-56 3-57'></refs>
+			</w>
+			<w n='2-67'>
+				<text>s</text>
+				<refs nrefs='1-33 | 3-53 3-54 3-55 3-56 3-57'></refs>
+			</w>
+			<w n='2-68'>
+				<text>kill</text>
+				<refs nrefs='1-33 | 3-53 3-54 3-55 3-56 3-57'></refs>
+			</w>
+			<w n='2-69'>
+				<text>'</text>
+				<refs nrefs='1-33 | 3-53 3-54 3-55 3-56 3-57'></refs>
+			</w>
+			<w n='2-70'>
+				<text>;</text>
+				<refs nrefs='1-34 | 3-58'></refs>
+			</w>
+			<w n='2-71'>
+				<text>but</text>
+				<refs nrefs='1-36 | 3-59'></refs>
+			</w>
+			<w n='2-72'>
+				<text>he</text>
+				<refs nrefs='1-39 | 3-60'></refs>
+			</w>
+			<w n='2-73'>
+				<text>makes</text>
+				<refs nrefs='1-39 | 3-60'></refs>
+			</w>
+			<w n='2-74'>
+				<text>the</text>
+				<refs nrefs='1-35 | 3-61'></refs>
+			</w>
+			<w n='2-75'>
+				<text>gain</text>
+				<refs nrefs='1-37 | 3-62'></refs>
+			</w>
+			<w n='2-76'>
+				<text>his</text>
+				<refs nrefs='1-38 | 3-67'></refs>
+			</w>
+			<w n='2-77'>
+				<text>own</text>
+				<refs nrefs='1-38 | 3-67'></refs>
+			</w>
+			<w n='2-78'>
+				<text>of</text>
+				<refs nrefs='1-40 1-41 | 3-63 3-64 3-65 3-66'></refs>
+			</w>
+			<w n='2-79'>
+				<text>the</text>
+				<refs nrefs='1-40 1-41 | 3-63 3-64 3-65 3-66'></refs>
+			</w>
+			<w n='2-80'>
+				<text>soldiers</text>
+				<refs nrefs='1-40 1-41 | 3-63 3-64 3-65 3-66'></refs>
+			</w>
+			<w n='2-81'>
+				<text>in</text>
+				<refs nrefs='1-42 1-43 1-44 | 3-68 3-69 3-70 3-71 3-72 3-73 3-75'></refs>
+			</w>
+			<w n='2-82'>
+				<text>the</text>
+				<refs nrefs='1-42 1-43 1-44 | 3-68 3-69 3-70 3-71 3-72 3-73 3-75'></refs>
+			</w>
+			<w n='2-83'>
+				<text>gathering</text>
+				<refs nrefs='1-42 1-43 1-44 | 3-68 3-69 3-70 3-71 3-72 3-73 3-75'></refs>
+			</w>
+			<w n='2-84'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-85'>
+				<text>O</text>
+				<refs nrefs='1-46 | '></refs>
+			</w>
+			<w n='2-86'>
+				<text>Charis</text>
+				<refs nrefs='1-47 | 3-76'></refs>
+			</w>
+			<w n='2-87'>
+				<text>:</text>
+				<refs nrefs='1-48 | '></refs>
+			</w>
+			<w n='2-88'>
+				<text>He</text>
+				<refs nrefs='1-51 | 3-77'></refs>
+			</w>
+			<w n='2-89'>
+				<text>says</text>
+				<refs nrefs='1-51 | 3-77'></refs>
+			</w>
+			<w n='2-90'>
+				<text>that</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-91'>
+				<text>the</text>
+				<refs nrefs='1-52 1-55 | 3-78 3-79'></refs>
+			</w>
+			<w n='2-92'>
+				<text>character</text>
+				<refs nrefs='1-52 1-55 | 3-78 3-79'></refs>
+			</w>
+			<w n='2-93'>
+				<text>of</text>
+				<refs nrefs='1-53 1-54 | 3-80 3-81 3-82'></refs>
+			</w>
+			<w n='2-94'>
+				<text>the</text>
+				<refs nrefs='1-53 1-54 | 3-80 3-81 3-82'></refs>
+			</w>
+			<w n='2-95'>
+				<text>interpretation</text>
+				<refs nrefs='1-53 1-54 | 3-80 3-81 3-82'></refs>
+			</w>
+			<w n='2-96'>
+				<text>is</text>
+				<refs nrefs='1-50 | 3-83'></refs>
+			</w>
+			<w n='2-97'>
+				<text>Homeric</text>
+				<refs nrefs='1-49 | 3-84'></refs>
+			</w>
+			<w n='2-98'>
+				<text>as</text>
+				<refs nrefs='1-56 | 3-86'></refs>
+			</w>
+			<w n='2-99'>
+				<text>in</text>
+				<refs nrefs='1-57 | 3-87'></refs>
+			</w>
+			<w n='2-100'>
+				<text>these</text>
+				<refs nrefs='1-58 | 3-88 3-89'></refs>
+			</w>
+			<w n='2-101'>
+				<text>[</text>
+				<refs nrefs='1-58 | 3-88 3-89'></refs>
+			</w>
+			<w n='2-102'>
+				<text>examples</text>
+				<refs nrefs='1-58 | 3-88 3-89'></refs>
+			</w>
+			<w n='2-103'>
+				<text>]</text>
+				<refs nrefs='1-58 | 3-88 3-89'></refs>
+			</w>
+			<w n='2-104'>
+				<text>:</text>
+				<refs nrefs='1-59 | 3-90'></refs>
+			</w>
+			<w n='2-105'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-106'>
+				<text>for</text>
+				<refs nrefs='1-62 | 3-92'></refs>
+			</w>
+			<w n='2-107'>
+				<text>all</text>
+				<refs nrefs='1-63 | 3-93'></refs>
+			</w>
+			<w n='2-108'>
+				<text>the</text>
+				<refs nrefs='1-65 | 3-96'></refs>
+			</w>
+			<w n='2-109'>
+				<text>gods</text>
+				<refs nrefs='1-65 | 3-96'></refs>
+			</w>
+			<w n='2-110'>
+				<text>on</text>
+				<refs nrefs='1-66 | 3-99'></refs>
+			</w>
+			<w n='2-111'>
+				<text>Olympus</text>
+				<refs nrefs='1-68 | 3-100'></refs>
+			</w>
+			<w n='2-112'>
+				<text>obey</text>
+				<refs nrefs='1-73 | 3-101'></refs>
+			</w>
+			<w n='2-113'>
+				<text>you</text>
+				<refs nrefs='1-69 | 3-102'></refs>
+			</w>
+			<w n='2-114'>
+				<text>and</text>
+				<refs nrefs='1-74 | 3-103'></refs>
+			</w>
+			<w n='2-115'>
+				<text>we</text>
+				<refs nrefs='1-75 | 3-104 3-105'></refs>
+			</w>
+			<w n='2-116'>
+				<text>each</text>
+				<refs nrefs='1-76 | 3-107 3-108'></refs>
+			</w>
+			<w n='2-117'>
+				<text>are</text>
+				<refs nrefs='1-75 | 3-104 3-105'></refs>
+			</w>
+			<w n='2-118'>
+				<text>bound</text>
+				<refs nrefs='1-75 | 3-104 3-105'></refs>
+			</w>
+			<w n='2-119'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-120'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-121'>
+				<text>For</text>
+				<refs nrefs='1-79 | 3-111'></refs>
+			</w>
+			<w n='2-122'>
+				<text>it</text>
+				<refs nrefs='1-78 | 3-112 3-113 3-114'></refs>
+			</w>
+			<w n='2-123'>
+				<text>should</text>
+				<refs nrefs='1-78 | 3-112 3-113 3-114'></refs>
+			</w>
+			<w n='2-124'>
+				<text>be</text>
+				<refs nrefs='1-78 | 3-112 3-113 3-114'></refs>
+			</w>
+			<w n='2-125'>
+				<text>'</text>
+				<refs nrefs='1-80 | 3-115 3-116 3-117 3-118'></refs>
+			</w>
+			<w n='2-126'>
+				<text>are</text>
+				<refs nrefs='1-80 | 3-115 3-116 3-117 3-118'></refs>
+			</w>
+			<w n='2-127'>
+				<text>bound</text>
+				<refs nrefs='1-80 | 3-115 3-116 3-117 3-118'></refs>
+			</w>
+			<w n='2-128'>
+				<text>'</text>
+				<refs nrefs='1-80 | 3-115 3-116 3-117 3-118'></refs>
+			</w>
+			<w n='2-129'>
+				<text>as</text>
+				<refs nrefs='1-81 | 3-119 3-120'></refs>
+			</w>
+			<w n='2-130'>
+				<text>they</text>
+				<refs nrefs='1-82 | 3-121 3-122 3-124'></refs>
+			</w>
+			<w n='2-131'>
+				<text>are</text>
+				<refs nrefs='1-82 | 3-121 3-122 3-124'></refs>
+			</w>
+			<w n='2-132'>
+				<text>persuaded</text>
+				<refs nrefs='1-82 | 3-121 3-122 3-124'></refs>
+			</w>
+			<w n='2-133'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-134'>
+				<text>Or</text>
+				<refs nrefs='1-84 | 3-125'></refs>
+			</w>
+			<w n='2-135'>
+				<text>conversely</text>
+				<refs nrefs='1-85 | 3-126 3-127'></refs>
+			</w>
+			<w n='2-136'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-137'>
+				<text>And</text>
+				<refs nrefs='1-87 | 3-129'></refs>
+			</w>
+			<w n='2-138'>
+				<text>again</text>
+				<refs nrefs='1-88 | 3-130'></refs>
+			</w>
+			<w n='2-139'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-140'>
+				<text>but</text>
+				<refs nrefs='1-89 | 3-133'></refs>
+			</w>
+			<w n='2-141'>
+				<text>come</text>
+				<refs nrefs='1-90 | 3-134'></refs>
+			</w>
+			<w n='2-142'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-143'>
+				<text>let</text>
+				<refs nrefs='1-93 1-96 | 3-136 3-137 3-139'></refs>
+			</w>
+			<w n='2-144'>
+				<text>us</text>
+				<refs nrefs='1-93 1-96 | 3-136 3-137 3-139'></refs>
+			</w>
+			<w n='2-145'>
+				<text>be</text>
+				<refs nrefs='1-93 1-96 | 3-136 3-137 3-139'></refs>
+			</w>
+			<w n='2-146'>
+				<text>persuaded</text>
+				<refs nrefs='1-93 1-96 | 3-136 3-137 3-139'></refs>
+			</w>
+			<w n='2-147'>
+				<text>by</text>
+				<refs nrefs='1-97 | 3-138'></refs>
+			</w>
+			<w n='2-148'>
+				<text>all</text>
+				<refs nrefs='1-97 | 3-138'></refs>
+			</w>
+			<w n='2-149'>
+				<text>as</text>
+				<refs nrefs='1-92 | 3-140'></refs>
+			</w>
+			<w n='2-150'>
+				<text>I</text>
+				<refs nrefs='1-94 | 3-141'></refs>
+			</w>
+			<w n='2-151'>
+				<text>say</text>
+				<refs nrefs='1-95 | 3-142'></refs>
+			</w>
+			<w n='2-152'>
+				<text>.</text>
+				<refs nrefs='1-98 | 3-143'></refs>
+			</w>
+			<w n='2-153'>
+				<text>Now</text>
+				<refs nrefs='1-99 | 3-150'></refs>
+			</w>
+			<w n='2-154'>
+				<text>take</text>
+				<refs nrefs='1-102 | 3-151'></refs>
+			</w>
+			<w n='2-155'>
+				<text>your</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-156'>
+				<text>evening</text>
+				<refs nrefs='1-101 | 3-153'></refs>
+			</w>
+			<w n='2-157'>
+				<text>meal</text>
+				<refs nrefs='1-101 | 3-153'></refs>
+			</w>
+			<w n='2-158'>
+				<text>throughout</text>
+				<refs nrefs='1-103 | 3-154'></refs>
+			</w>
+			<w n='2-159'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-160'>
+				<text>camp</text>
+				<refs nrefs='1-104 | 3-156'></refs>
+			</w>
+			<w n='2-161'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-162'>
+				<text>;</text>
+				<refs nrefs='1-105 | 3-157'></refs>
+			</w>
+			<w n='2-163'>
+				<text>and</text>
+				<refs nrefs='1-106 | 3-159'></refs>
+			</w>
+			<w n='2-164'>
+				<text>elsewhere</text>
+				<refs nrefs='1-107 | 3-160'></refs>
+			</w>
+			<w n='2-165'>
+				<text>for</text>
+				<refs nrefs='1-109 | '></refs>
+			</w>
+			<w n='2-166'>
+				<text>not</text>
+				<refs nrefs='1-108 | 3-163'></refs>
+			</w>
+			<w n='2-167'>
+				<text>otherwise</text>
+				<refs nrefs='1-110 | 3-164'></refs>
+			</w>
+			<w n='2-168'>
+				<text>does</text>
+				<refs nrefs='1-111 | 3-162 3-165'></refs>
+			</w>
+			<w n='2-169'>
+				<text>Nestor</text>
+				<refs nrefs='1-112 1-113 | 3-161'></refs>
+			</w>
+			<w n='2-170'>
+				<text>thrive</text>
+				<refs nrefs='1-111 | 3-162 3-165'></refs>
+			</w>
+			<w n='2-171'>
+				<text>but</text>
+				<refs nrefs='1-114 | 3-167'></refs>
+			</w>
+			<w n='2-172'>
+				<text>seems</text>
+				<refs nrefs='1-117 | 3-168'></refs>
+			</w>
+			<w n='2-173'>
+				<text>to</text>
+				<refs nrefs='1-118 | 3-169 3-170 3-171 3-172'></refs>
+			</w>
+			<w n='2-174'>
+				<text>have</text>
+				<refs nrefs='1-118 | 3-169 3-170 3-171 3-172'></refs>
+			</w>
+			<w n='2-175'>
+				<text>declined</text>
+				<refs nrefs='1-118 | 3-169 3-170 3-171 3-172'></refs>
+			</w>
+			<w n='2-176'>
+				<text>under</text>
+				<refs nrefs='1-115 | 3-173'></refs>
+			</w>
+			<w n='2-177'>
+				<text>old</text>
+				<refs nrefs='1-116 | 3-174 3-175'></refs>
+			</w>
+			<w n='2-178'>
+				<text>age</text>
+				<refs nrefs='1-116 | 3-174 3-175'></refs>
+			</w>
+			<w n='2-179'>
+				<text>:</text>
+				<refs nrefs='1-119 | 3-176'></refs>
+			</w>
+			<w n='2-180'>
+				<text>these</text>
+				<refs nrefs='1-120 | 3-177 3-178'></refs>
+			</w>
+			<w n='2-181'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-182'>
+				<text>are</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-183'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-184'>
+				<text>words</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-185'>
+				<text>of</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-186'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-187'>
+				<text>Didymus</text>
+				<refs nrefs='1-121 1-122 | 3-179'></refs>
+			</w>
+			<w n='2-188'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-2'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-3'>
+				<text>The</text>
+				<refs nrefs='1-1 | 2-4 2-5'></refs>
+			</w>
+			<w n='3-4'>
+				<text>dead</text>
+				<refs nrefs='1-1 | 2-4 2-5'></refs>
+			</w>
+			<w n='3-5'>
+				<text>upon</text>
+				<refs nrefs='1-2 | 2-6 2-7 2-8'></refs>
+			</w>
+			<w n='3-6'>
+				<text>the</text>
+				<refs nrefs='1-2 | 2-6 2-7 2-8'></refs>
+			</w>
+			<w n='3-7'>
+				<text>plain</text>
+				<refs nrefs='1-2 | 2-6 2-7 2-8'></refs>
+			</w>
+			<w n='3-8'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-9'>
+				<text>those</text>
+				<refs nrefs='1-4 | 2-10 2-11'></refs>
+			</w>
+			<w n='3-10'>
+				<text>slain</text>
+				<refs nrefs='1-4 | 2-10 2-11'></refs>
+			</w>
+			<w n='3-11'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-12'>
+				<text>-</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-13'>
+				<text>thus</text>
+				<refs nrefs='1-5 | 2-13'></refs>
+			</w>
+			<w n='3-14'>
+				<text>Aristarchus</text>
+				<refs nrefs='1-6 | 2-15'></refs>
+			</w>
+			<w n='3-15'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-16'>
+				<text>But</text>
+				<refs nrefs='1-8 | 2-17'></refs>
+			</w>
+			<w n='3-17'>
+				<text>Zenodotus</text>
+				<refs nrefs='1-7 1-9 | 2-18'></refs>
+			</w>
+			<w n='3-18'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-19'>
+				<text>of</text>
+				<refs nrefs='1-11 | 2-35'></refs>
+			</w>
+			<w n='3-20'>
+				<text>the</text>
+				<refs nrefs='1-11 | 2-35'></refs>
+			</w>
+			<w n='3-21'>
+				<text>Trojans</text>
+				<refs nrefs='1-11 | 2-35'></refs>
+			</w>
+			<w n='3-22'>
+				<text>let</text>
+				<refs nrefs='1-13 | 2-24 2-25 2-26'></refs>
+			</w>
+			<w n='3-23'>
+				<text>us</text>
+				<refs nrefs='1-13 | 2-24 2-25 2-26'></refs>
+			</w>
+			<w n='3-24'>
+				<text>despoil</text>
+				<refs nrefs='1-13 | 2-24 2-25 2-26'></refs>
+			</w>
+			<w n='3-25'>
+				<text>the</text>
+				<refs nrefs='1-12 | 2-27 2-28 2-29'></refs>
+			</w>
+			<w n='3-26'>
+				<text>plain</text>
+				<refs nrefs='1-12 | 2-27 2-28 2-29'></refs>
+			</w>
+			<w n='3-27'>
+				<text>of</text>
+				<refs nrefs='1-14 | 2-31'></refs>
+			</w>
+			<w n='3-28'>
+				<text>armor</text>
+				<refs nrefs='1-14 | 2-31'></refs>
+			</w>
+			<w n='3-29'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-30'>
+				<text>the</text>
+				<refs nrefs='1-15 | 2-32 2-33 2-34'></refs>
+			</w>
+			<w n='3-31'>
+				<text>dead</text>
+				<refs nrefs='1-15 | 2-32 2-33 2-34'></refs>
+			</w>
+			<w n='3-32'>
+				<text>.</text>
+				<refs nrefs='1-16 | 2-36'></refs>
+			</w>
+			<w n='3-33'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-34'>
+				<text>And</text>
+				<refs nrefs='1-18 | 2-40'></refs>
+			</w>
+			<w n='3-35'>
+				<text>Athenocles</text>
+				<refs nrefs='1-17 | 2-38'></refs>
+			</w>
+			<w n='3-36'>
+				<text>in</text>
+				<refs nrefs='1-19 | 2-42 2-43 2-44'></refs>
+			</w>
+			<w n='3-37'>
+				<text>his</text>
+				<refs nrefs='1-19 | 2-42 2-43 2-44'></refs>
+			</w>
+			<w n='3-38'>
+				<text>work</text>
+				<refs nrefs='1-19 | 2-42 2-43 2-44'></refs>
+			</w>
+			<w n='3-39'>
+				<text>on</text>
+				<refs nrefs='1-20 | 2-45'></refs>
+			</w>
+			<w n='3-40'>
+				<text>Homer</text>
+				<refs nrefs='1-21 | 2-46'></refs>
+			</w>
+			<w n='3-41'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-42'>
+				<text>noting</text>
+				<refs nrefs='1-22 | 2-48'></refs>
+			</w>
+			<w n='3-43'>
+				<text>that</text>
+				<refs nrefs='1-23 | 2-49'></refs>
+			</w>
+			<w n='3-44'>
+				<text>Nestor</text>
+				<refs nrefs='1-29 1-30 | 2-50'></refs>
+			</w>
+			<w n='3-45'>
+				<text>includes</text>
+				<refs nrefs='1-31 | 2-60'></refs>
+			</w>
+			<w n='3-46'>
+				<text>even</text>
+				<refs nrefs='1-27 | 2-56 2-57'></refs>
+			</w>
+			<w n='3-47'>
+				<text>himself</text>
+				<refs nrefs='1-28 | 2-58'></refs>
+			</w>
+			<w n='3-48'>
+				<text>in</text>
+				<refs nrefs='1-24 1-26 | 2-53 2-54'></refs>
+			</w>
+			<w n='3-49'>
+				<text>the</text>
+				<refs nrefs='1-24 1-26 | 2-53 2-54'></refs>
+			</w>
+			<w n='3-50'>
+				<text>toil</text>
+				<refs nrefs='1-24 1-26 | 2-53 2-54'></refs>
+			</w>
+			<w n='3-51'>
+				<text>by</text>
+				<refs nrefs='1-32 | 2-61 2-62 2-63'></refs>
+			</w>
+			<w n='3-52'>
+				<text>saying</text>
+				<refs nrefs='1-32 | 2-61 2-62 2-63'></refs>
+			</w>
+			<w n='3-53'>
+				<text>"</text>
+				<refs nrefs='1-33 | 2-64 2-65 2-66 2-67 2-68 2-69'></refs>
+			</w>
+			<w n='3-54'>
+				<text>let</text>
+				<refs nrefs='1-33 | 2-64 2-65 2-66 2-67 2-68 2-69'></refs>
+			</w>
+			<w n='3-55'>
+				<text>us</text>
+				<refs nrefs='1-33 | 2-64 2-65 2-66 2-67 2-68 2-69'></refs>
+			</w>
+			<w n='3-56'>
+				<text>slay</text>
+				<refs nrefs='1-33 | 2-64 2-65 2-66 2-67 2-68 2-69'></refs>
+			</w>
+			<w n='3-57'>
+				<text>"</text>
+				<refs nrefs='1-33 | 2-64 2-65 2-66 2-67 2-68 2-69'></refs>
+			</w>
+			<w n='3-58'>
+				<text>,</text>
+				<refs nrefs='1-34 | 2-70'></refs>
+			</w>
+			<w n='3-59'>
+				<text>but</text>
+				<refs nrefs='1-36 | 2-71'></refs>
+			</w>
+			<w n='3-60'>
+				<text>makes</text>
+				<refs nrefs='1-39 | 2-72 2-73'></refs>
+			</w>
+			<w n='3-61'>
+				<text>the</text>
+				<refs nrefs='1-35 | 2-74'></refs>
+			</w>
+			<w n='3-62'>
+				<text>profit/spoils</text>
+				<refs nrefs='1-37 | 2-75'></refs>
+			</w>
+			<w n='3-63'>
+				<text>belong</text>
+				<refs nrefs='1-40 1-41 | 2-78 2-79 2-80'></refs>
+			</w>
+			<w n='3-64'>
+				<text>to</text>
+				<refs nrefs='1-40 1-41 | 2-78 2-79 2-80'></refs>
+			</w>
+			<w n='3-65'>
+				<text>the</text>
+				<refs nrefs='1-40 1-41 | 2-78 2-79 2-80'></refs>
+			</w>
+			<w n='3-66'>
+				<text>soldiers</text>
+				<refs nrefs='1-40 1-41 | 2-78 2-79 2-80'></refs>
+			</w>
+			<w n='3-67'>
+				<text>alone</text>
+				<refs nrefs='1-38 | 2-76 2-77'></refs>
+			</w>
+			<w n='3-68'>
+				<text>by</text>
+				<refs nrefs='1-42 1-43 1-44 | 2-81 2-82 2-83'></refs>
+			</w>
+			<w n='3-69'>
+				<text>saying</text>
+				<refs nrefs='1-42 1-43 1-44 | 2-81 2-82 2-83'></refs>
+			</w>
+			<w n='3-70'>
+				<text>"</text>
+				<refs nrefs='1-42 1-43 1-44 | 2-81 2-82 2-83'></refs>
+			</w>
+			<w n='3-71'>
+				<text>you</text>
+				<refs nrefs='1-42 1-43 1-44 | 2-81 2-82 2-83'></refs>
+			</w>
+			<w n='3-72'>
+				<text>will</text>
+				<refs nrefs='1-42 1-43 1-44 | 2-81 2-82 2-83'></refs>
+			</w>
+			<w n='3-73'>
+				<text>despoil</text>
+				<refs nrefs='1-42 1-43 1-44 | 2-81 2-82 2-83'></refs>
+			</w>
+			<w n='3-74'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-75'>
+				<text>"</text>
+				<refs nrefs='1-42 1-43 1-44 | 2-81 2-82 2-83'></refs>
+			</w>
+			<w n='3-76'>
+				<text>Chæris</text>
+				<refs nrefs='1-47 | 2-86'></refs>
+			</w>
+			<w n='3-77'>
+				<text>says</text>
+				<refs nrefs='1-51 | 2-88 2-89'></refs>
+			</w>
+			<w n='3-78'>
+				<text>the</text>
+				<refs nrefs='1-52 1-55 | 2-91 2-92'></refs>
+			</w>
+			<w n='3-79'>
+				<text>character</text>
+				<refs nrefs='1-52 1-55 | 2-91 2-92'></refs>
+			</w>
+			<w n='3-80'>
+				<text>of</text>
+				<refs nrefs='1-53 1-54 | 2-93 2-94 2-95'></refs>
+			</w>
+			<w n='3-81'>
+				<text>the</text>
+				<refs nrefs='1-53 1-54 | 2-93 2-94 2-95'></refs>
+			</w>
+			<w n='3-82'>
+				<text>interpretation</text>
+				<refs nrefs='1-53 1-54 | 2-93 2-94 2-95'></refs>
+			</w>
+			<w n='3-83'>
+				<text>is</text>
+				<refs nrefs='1-50 | 2-96'></refs>
+			</w>
+			<w n='3-84'>
+				<text>Homeric</text>
+				<refs nrefs='1-49 | 2-97'></refs>
+			</w>
+			<w n='3-85'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-86'>
+				<text>as</text>
+				<refs nrefs='1-56 | 2-98'></refs>
+			</w>
+			<w n='3-87'>
+				<text>in</text>
+				<refs nrefs='1-57 | 2-99'></refs>
+			</w>
+			<w n='3-88'>
+				<text>these</text>
+				<refs nrefs='1-58 | 2-100 2-101 2-102 2-103'></refs>
+			</w>
+			<w n='3-89'>
+				<text>passages</text>
+				<refs nrefs='1-58 | 2-100 2-101 2-102 2-103'></refs>
+			</w>
+			<w n='3-90'>
+				<text>:</text>
+				<refs nrefs='1-59 | 2-104'></refs>
+			</w>
+			<w n='3-91'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-92'>
+				<text>For</text>
+				<refs nrefs='1-62 | 2-106'></refs>
+			</w>
+			<w n='3-93'>
+				<text>all</text>
+				<refs nrefs='1-63 | 2-107'></refs>
+			</w>
+			<w n='3-94'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-95'>
+				<text>other</text>
+				<refs nrefs='1-60 | '></refs>
+			</w>
+			<w n='3-96'>
+				<text>gods</text>
+				<refs nrefs='1-65 | 2-108 2-109'></refs>
+			</w>
+			<w n='3-97'>
+				<text>who</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-98'>
+				<text>are</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-99'>
+				<text>in</text>
+				<refs nrefs='1-66 | 2-110'></refs>
+			</w>
+			<w n='3-100'>
+				<text>Olympus</text>
+				<refs nrefs='1-68 | 2-111'></refs>
+			</w>
+			<w n='3-101'>
+				<text>obey</text>
+				<refs nrefs='1-73 | 2-112'></refs>
+			</w>
+			<w n='3-102'>
+				<text>you</text>
+				<refs nrefs='1-69 | 2-113'></refs>
+			</w>
+			<w n='3-103'>
+				<text>and</text>
+				<refs nrefs='1-74 | 2-114'></refs>
+			</w>
+			<w n='3-104'>
+				<text>are</text>
+				<refs nrefs='1-75 | 2-115 2-117 2-118'></refs>
+			</w>
+			<w n='3-105'>
+				<text>subject</text>
+				<refs nrefs='1-75 | 2-115 2-117 2-118'></refs>
+			</w>
+			<w n='3-106'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-107'>
+				<text>each</text>
+				<refs nrefs='1-76 | 2-116'></refs>
+			</w>
+			<w n='3-108'>
+				<text>one</text>
+				<refs nrefs='1-76 | 2-116'></refs>
+			</w>
+			<w n='3-109'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-110'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-111'>
+				<text>For</text>
+				<refs nrefs='1-79 | 2-121'></refs>
+			</w>
+			<w n='3-112'>
+				<text>it</text>
+				<refs nrefs='1-78 | 2-122 2-123 2-124'></refs>
+			</w>
+			<w n='3-113'>
+				<text>should</text>
+				<refs nrefs='1-78 | 2-122 2-123 2-124'></refs>
+			</w>
+			<w n='3-114'>
+				<text>be</text>
+				<refs nrefs='1-78 | 2-122 2-123 2-124'></refs>
+			</w>
+			<w n='3-115'>
+				<text>"</text>
+				<refs nrefs='1-80 | 2-125 2-126 2-127 2-128'></refs>
+			</w>
+			<w n='3-116'>
+				<text>are</text>
+				<refs nrefs='1-80 | 2-125 2-126 2-127 2-128'></refs>
+			</w>
+			<w n='3-117'>
+				<text>subject</text>
+				<refs nrefs='1-80 | 2-125 2-126 2-127 2-128'></refs>
+			</w>
+			<w n='3-118'>
+				<text>"</text>
+				<refs nrefs='1-80 | 2-125 2-126 2-127 2-128'></refs>
+			</w>
+			<w n='3-119'>
+				<text>just</text>
+				<refs nrefs='1-81 | 2-129'></refs>
+			</w>
+			<w n='3-120'>
+				<text>as</text>
+				<refs nrefs='1-81 | 2-129'></refs>
+			</w>
+			<w n='3-121'>
+				<text>"</text>
+				<refs nrefs='1-82 | 2-130 2-131 2-132'></refs>
+			</w>
+			<w n='3-122'>
+				<text>obey</text>
+				<refs nrefs='1-82 | 2-130 2-131 2-132'></refs>
+			</w>
+			<w n='3-123'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-124'>
+				<text>"</text>
+				<refs nrefs='1-82 | 2-130 2-131 2-132'></refs>
+			</w>
+			<w n='3-125'>
+				<text>Or</text>
+				<refs nrefs='1-84 | 2-134'></refs>
+			</w>
+			<w n='3-126'>
+				<text>the</text>
+				<refs nrefs='1-85 | 2-135'></refs>
+			</w>
+			<w n='3-127'>
+				<text>reverse</text>
+				<refs nrefs='1-85 | 2-135'></refs>
+			</w>
+			<w n='3-128'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-129'>
+				<text>And</text>
+				<refs nrefs='1-87 | 2-137'></refs>
+			</w>
+			<w n='3-130'>
+				<text>again</text>
+				<refs nrefs='1-88 | 2-138'></refs>
+			</w>
+			<w n='3-131'>
+				<text>:</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-132'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-133'>
+				<text>But</text>
+				<refs nrefs='1-89 | 2-140'></refs>
+			</w>
+			<w n='3-134'>
+				<text>come</text>
+				<refs nrefs='1-90 | 2-141'></refs>
+			</w>
+			<w n='3-135'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-136'>
+				<text>let</text>
+				<refs nrefs='1-93 1-96 | 2-143 2-144 2-145 2-146'></refs>
+			</w>
+			<w n='3-137'>
+				<text>us</text>
+				<refs nrefs='1-93 1-96 | 2-143 2-144 2-145 2-146'></refs>
+			</w>
+			<w n='3-138'>
+				<text>all</text>
+				<refs nrefs='1-97 | 2-147 2-148'></refs>
+			</w>
+			<w n='3-139'>
+				<text>obey</text>
+				<refs nrefs='1-93 1-96 | 2-143 2-144 2-145 2-146'></refs>
+			</w>
+			<w n='3-140'>
+				<text>as</text>
+				<refs nrefs='1-92 | 2-149'></refs>
+			</w>
+			<w n='3-141'>
+				<text>I</text>
+				<refs nrefs='1-94 | 2-150'></refs>
+			</w>
+			<w n='3-142'>
+				<text>speak</text>
+				<refs nrefs='1-95 | 2-151'></refs>
+			</w>
+			<w n='3-143'>
+				<text>.</text>
+				<refs nrefs='1-98 | 2-152'></refs>
+			</w>
+			<w n='3-144'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-145'>
+				<text>And</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-146'>
+				<text>elsewhere</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-147'>
+				<text>:</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-148'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-149'>
+				<text>For</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-150'>
+				<text>now</text>
+				<refs nrefs='1-99 | 2-153'></refs>
+			</w>
+			<w n='3-151'>
+				<text>take</text>
+				<refs nrefs='1-102 | 2-154'></refs>
+			</w>
+			<w n='3-152'>
+				<text>your</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-153'>
+				<text>dinner</text>
+				<refs nrefs='1-101 | 2-156 2-157'></refs>
+			</w>
+			<w n='3-154'>
+				<text>throughout</text>
+				<refs nrefs='1-103 | 2-158'></refs>
+			</w>
+			<w n='3-155'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-156'>
+				<text>camp</text>
+				<refs nrefs='1-104 | 2-160'></refs>
+			</w>
+			<w n='3-157'>
+				<text>.</text>
+				<refs nrefs='1-105 | 2-162'></refs>
+			</w>
+			<w n='3-158'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-159'>
+				<text>And</text>
+				<refs nrefs='1-106 | 2-163'></refs>
+			</w>
+			<w n='3-160'>
+				<text>elsewhere</text>
+				<refs nrefs='1-107 | 2-164'></refs>
+			</w>
+			<w n='3-161'>
+				<text>Nestor</text>
+				<refs nrefs='1-112 1-113 | 2-169'></refs>
+			</w>
+			<w n='3-162'>
+				<text>does</text>
+				<refs nrefs='1-111 | 2-168 2-170'></refs>
+			</w>
+			<w n='3-163'>
+				<text>not</text>
+				<refs nrefs='1-108 | 2-166'></refs>
+			</w>
+			<w n='3-164'>
+				<text>even</text>
+				<refs nrefs='1-110 | 2-167'></refs>
+			</w>
+			<w n='3-165'>
+				<text>exert</text>
+				<refs nrefs='1-111 | 2-168 2-170'></refs>
+			</w>
+			<w n='3-166'>
+				<text>himself</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-167'>
+				<text>but</text>
+				<refs nrefs='1-114 | 2-171'></refs>
+			</w>
+			<w n='3-168'>
+				<text>seems</text>
+				<refs nrefs='1-117 | 2-172'></refs>
+			</w>
+			<w n='3-169'>
+				<text>to</text>
+				<refs nrefs='1-118 | 2-173 2-174 2-175'></refs>
+			</w>
+			<w n='3-170'>
+				<text>have</text>
+				<refs nrefs='1-118 | 2-173 2-174 2-175'></refs>
+			</w>
+			<w n='3-171'>
+				<text>given</text>
+				<refs nrefs='1-118 | 2-173 2-174 2-175'></refs>
+			</w>
+			<w n='3-172'>
+				<text>out</text>
+				<refs nrefs='1-118 | 2-173 2-174 2-175'></refs>
+			</w>
+			<w n='3-173'>
+				<text>from</text>
+				<refs nrefs='1-115 | 2-176'></refs>
+			</w>
+			<w n='3-174'>
+				<text>old</text>
+				<refs nrefs='1-116 | 2-177 2-178'></refs>
+			</w>
+			<w n='3-175'>
+				<text>age</text>
+				<refs nrefs='1-116 | 2-177 2-178'></refs>
+			</w>
+			<w n='3-176'>
+				<text>.</text>
+				<refs nrefs='1-119 | 2-179'></refs>
+			</w>
+			<w n='3-177'>
+				<text>These</text>
+				<refs nrefs='1-120 | 2-180'></refs>
+			</w>
+			<w n='3-178'>
+				<text>things</text>
+				<refs nrefs='1-120 | 2-180'></refs>
+			</w>
+			<w n='3-179'>
+				<text>Didymus</text>
+				<refs nrefs='1-121 1-122 | 2-187'></refs>
+			</w>
+			<w n='3-180'>
+				<text>says</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-181'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

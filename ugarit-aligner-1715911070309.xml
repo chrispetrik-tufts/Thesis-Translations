@@ -1,0 +1,69 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>ἀμφατέρων</text>
+				<refs nrefs='2-10 2-3 2-4 2-8 2-9 | 3-1 3-2'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-2'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-3'>
+				<text>Of</text>
+				<refs nrefs='1-1 | 3-1 3-2'></refs>
+			</w>
+			<w n='2-4'>
+				<text>both</text>
+				<refs nrefs='1-1 | 3-1 3-2'></refs>
+			</w>
+			<w n='2-5'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-6'>
+				<text>or</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-8'>
+				<text>belonging</text>
+				<refs nrefs='1-1 | 3-1 3-2'></refs>
+			</w>
+			<w n='2-9'>
+				<text>to</text>
+				<refs nrefs='1-1 | 3-1 3-2'></refs>
+			</w>
+			<w n='2-10'>
+				<text>both</text>
+				<refs nrefs='1-1 | 3-1 3-2'></refs>
+			</w>
+			<w n='2-11'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-12'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>of</text>
+				<refs nrefs='1-1 | 2-10 2-3 2-4 2-8 2-9'></refs>
+			</w>
+			<w n='3-2'>
+				<text>both</text>
+				<refs nrefs='1-1 | 2-10 2-3 2-4 2-8 2-9'></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

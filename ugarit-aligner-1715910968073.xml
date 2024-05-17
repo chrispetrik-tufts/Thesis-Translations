@@ -1,0 +1,77 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>εἰς</text>
+				<refs nrefs='2-1 2-7 | 3-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>πᾶσαν</text>
+				<refs nrefs='2-2 2-8 | 3-2'></refs>
+			</w>
+			<w n='1-3'>
+				<text>ὁρμην</text>
+				<refs nrefs='2-3 2-9 | 3-3'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Into</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>every</text>
+				<refs nrefs='1-2 | 3-2'></refs>
+			</w>
+			<w n='2-3'>
+				<text>impulse</text>
+				<refs nrefs='1-3 | 3-3'></refs>
+			</w>
+			<w n='2-4'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-5'>
+				<text>or</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-6'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>towards</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-8'>
+				<text>every</text>
+				<refs nrefs='1-2 | 3-2'></refs>
+			</w>
+			<w n='2-9'>
+				<text>endeavor</text>
+				<refs nrefs='1-3 | 3-3'></refs>
+			</w>
+			<w n='2-10'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>Into</text>
+				<refs nrefs='1-1 | 2-1 2-7'></refs>
+			</w>
+			<w n='3-2'>
+				<text>every</text>
+				<refs nrefs='1-2 | 2-2 2-8'></refs>
+			</w>
+			<w n='3-3'>
+				<text>rush/impulse/onset</text>
+				<refs nrefs='1-3 | 2-3 2-9'></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

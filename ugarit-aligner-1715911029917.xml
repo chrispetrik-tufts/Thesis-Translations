@@ -1,0 +1,185 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>Γλαυκος</text>
+				<refs nrefs='2-1 | 3-2'></refs>
+			</w>
+			<w n='1-2'>
+				<text>δε</text>
+				<refs nrefs='2-3 | 3-1'></refs>
+			</w>
+			<w n='1-3'>
+				<text>'</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-4'>
+				<text>ἱππολόχοιο</text>
+				<refs nrefs='2-7 2-8 | 3-5 3-6'></refs>
+			</w>
+			<w n='1-5'>
+				<text>πάϊς</text>
+				<refs nrefs='2-6 | 3-4'></refs>
+			</w>
+			<w n='1-6'>
+				<text>:</text>
+				<refs nrefs='2-9 | 3-7'></refs>
+			</w>
+			<w n='1-7'>
+				<text>ὅτι</text>
+				<refs nrefs='2-10 | 3-8'></refs>
+			</w>
+			<w n='1-8'>
+				<text>μετατιθεάσι</text>
+				<refs nrefs='2-12 | 3-10'></refs>
+			</w>
+			<w n='1-9'>
+				<text>τινὲς</text>
+				<refs nrefs='2-11 | 3-9'></refs>
+			</w>
+			<w n='1-10'>
+				<text>ἀλλαχῶσε</text>
+				<refs nrefs='2-15 | 3-13'></refs>
+			</w>
+			<w n='1-11'>
+				<text>ταύτην</text>
+				<refs nrefs='2-13 | 3-11'></refs>
+			</w>
+			<w n='1-12'>
+				<text>τὴν</text>
+				<refs nrefs='2-13 | 3-11'></refs>
+			</w>
+			<w n='1-13'>
+				<text>σύστασιν</text>
+				<refs nrefs='2-14 | 3-12'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Glaucus</text>
+				<refs nrefs='1-1 | 3-2'></refs>
+			</w>
+			<w n='2-2'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-3'>
+				<text>then</text>
+				<refs nrefs='1-2 | 3-1'></refs>
+			</w>
+			<w n='2-4'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-5'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-6'>
+				<text>son</text>
+				<refs nrefs='1-5 | 3-4'></refs>
+			</w>
+			<w n='2-7'>
+				<text>of</text>
+				<refs nrefs='1-4 | 3-5 3-6'></refs>
+			</w>
+			<w n='2-8'>
+				<text>Hippolochus</text>
+				<refs nrefs='1-4 | 3-5 3-6'></refs>
+			</w>
+			<w n='2-9'>
+				<text>:</text>
+				<refs nrefs='1-6 | 3-7'></refs>
+			</w>
+			<w n='2-10'>
+				<text>because</text>
+				<refs nrefs='1-7 | 3-8'></refs>
+			</w>
+			<w n='2-11'>
+				<text>some</text>
+				<refs nrefs='1-9 | 3-9'></refs>
+			</w>
+			<w n='2-12'>
+				<text>change</text>
+				<refs nrefs='1-8 | 3-10'></refs>
+			</w>
+			<w n='2-13'>
+				<text>this</text>
+				<refs nrefs='1-11 1-12 | 3-11'></refs>
+			</w>
+			<w n='2-14'>
+				<text>arrangement</text>
+				<refs nrefs='1-13 | 3-12'></refs>
+			</w>
+			<w n='2-15'>
+				<text>elsewhere</text>
+				<refs nrefs='1-10 | 3-13'></refs>
+			</w>
+			<w n='2-16'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>And</text>
+				<refs nrefs='1-2 | 2-3'></refs>
+			</w>
+			<w n='3-2'>
+				<text>Glaucus</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-3'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-4'>
+				<text>son</text>
+				<refs nrefs='1-5 | 2-6'></refs>
+			</w>
+			<w n='3-5'>
+				<text>of</text>
+				<refs nrefs='1-4 | 2-7 2-8'></refs>
+			</w>
+			<w n='3-6'>
+				<text>Hippolochus</text>
+				<refs nrefs='1-4 | 2-7 2-8'></refs>
+			</w>
+			<w n='3-7'>
+				<text>:</text>
+				<refs nrefs='1-6 | 2-9'></refs>
+			</w>
+			<w n='3-8'>
+				<text>that</text>
+				<refs nrefs='1-7 | 2-10'></refs>
+			</w>
+			<w n='3-9'>
+				<text>some</text>
+				<refs nrefs='1-9 | 2-11'></refs>
+			</w>
+			<w n='3-10'>
+				<text>transpose</text>
+				<refs nrefs='1-8 | 2-12'></refs>
+			</w>
+			<w n='3-11'>
+				<text>this</text>
+				<refs nrefs='1-11 1-12 | 2-13'></refs>
+			</w>
+			<w n='3-12'>
+				<text>combination</text>
+				<refs nrefs='1-13 | 2-14'></refs>
+			</w>
+			<w n='3-13'>
+				<text>elsewhere</text>
+				<refs nrefs='1-10 | 2-15'></refs>
+			</w>
+			<w n='3-14'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

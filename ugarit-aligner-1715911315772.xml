@@ -1,0 +1,145 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>o</text>
+				<refs nrefs=' | 3-1 3-2'></refs>
+			</w>
+			<w n='1-2'>
+				<text>ου</text>
+				<refs nrefs='2-5 | '></refs>
+			</w>
+			<w n='1-3'>
+				<text>καθολου</text>
+				<refs nrefs='2-2 | 3-3 3-4'></refs>
+			</w>
+			<w n='1-4'>
+				<text>τὴν</text>
+				<refs nrefs='2-1 | 3-6'></refs>
+			</w>
+			<w n='1-5'>
+				<text>ἀχλὺν</text>
+				<refs nrefs='2-3 | 3-7'></refs>
+			</w>
+			<w n='1-6'>
+				<text>ἀφηρέθη</text>
+				<refs nrefs='2-4 2-6 | 3-5 3-8'></refs>
+			</w>
+			<w n='1-7'>
+				<text>πρὸς</text>
+				<refs nrefs='2-7 | 3-9'></refs>
+			</w>
+			<w n='1-8'>
+				<text>τῆς</text>
+				<refs nrefs='2-8 | 3-10'></refs>
+			</w>
+			<w n='1-9'>
+				<text>θ</text>
+				<refs nrefs='2-9 | 3-11'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>The</text>
+				<refs nrefs='1-4 | 3-6'></refs>
+			</w>
+			<w n='2-2'>
+				<text>general</text>
+				<refs nrefs='1-3 | 3-3 3-4'></refs>
+			</w>
+			<w n='2-3'>
+				<text>fog</text>
+				<refs nrefs='1-5 | 3-7'></refs>
+			</w>
+			<w n='2-4'>
+				<text>was</text>
+				<refs nrefs='1-6 | 3-5 3-8'></refs>
+			</w>
+			<w n='2-5'>
+				<text>not</text>
+				<refs nrefs='1-2 | '></refs>
+			</w>
+			<w n='2-6'>
+				<text>removed</text>
+				<refs nrefs='1-6 | 3-5 3-8'></refs>
+			</w>
+			<w n='2-7'>
+				<text>from</text>
+				<refs nrefs='1-7 | 3-9'></refs>
+			</w>
+			<w n='2-8'>
+				<text>the</text>
+				<refs nrefs='1-8 | 3-10'></refs>
+			</w>
+			<w n='2-9'>
+				<text>theta</text>
+				<refs nrefs='1-9 | 3-11'></refs>
+			</w>
+			<w n='2-10'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>He</text>
+				<refs nrefs='1-1 | '></refs>
+			</w>
+			<w n='3-2'>
+				<text>who</text>
+				<refs nrefs='1-1 | '></refs>
+			</w>
+			<w n='3-3'>
+				<text>in</text>
+				<refs nrefs='1-3 | 2-2'></refs>
+			</w>
+			<w n='3-4'>
+				<text>general</text>
+				<refs nrefs='1-3 | 2-2'></refs>
+			</w>
+			<w n='3-5'>
+				<text>had</text>
+				<refs nrefs='1-6 | 2-4 2-6'></refs>
+			</w>
+			<w n='3-6'>
+				<text>the</text>
+				<refs nrefs='1-4 | 2-1'></refs>
+			</w>
+			<w n='3-7'>
+				<text>mist</text>
+				<refs nrefs='1-5 | 2-3'></refs>
+			</w>
+			<w n='3-8'>
+				<text>removed</text>
+				<refs nrefs='1-6 | 2-4 2-6'></refs>
+			</w>
+			<w n='3-9'>
+				<text>by</text>
+				<refs nrefs='1-7 | 2-7'></refs>
+			</w>
+			<w n='3-10'>
+				<text>the</text>
+				<refs nrefs='1-8 | 2-8'></refs>
+			</w>
+			<w n='3-11'>
+				<text>goddess</text>
+				<refs nrefs='1-9 | 2-9'></refs>
+			</w>
+			<w n='3-12'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-13'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-14'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

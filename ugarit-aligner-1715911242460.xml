@@ -1,0 +1,485 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>ἔστι</text>
+				<refs nrefs='2-1 2-2 | 3-3'></refs>
+			</w>
+			<w n='1-2'>
+				<text>πόλις</text>
+				<refs nrefs='2-3 2-4 | 3-4'></refs>
+			</w>
+			<w n='1-3'>
+				<text>Ἐφύρη</text>
+				<refs nrefs='2-5 | 3-5'></refs>
+			</w>
+			<w n='1-4'>
+				<text>οτι</text>
+				<refs nrefs='2-7 | 3-8'></refs>
+			</w>
+			<w n='1-5'>
+				<text>Ἐφύρην</text>
+				<refs nrefs='2-11 | 3-13 3-14'></refs>
+			</w>
+			<w n='1-6'>
+				<text>την</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-7'>
+				<text>Κόρινθον</text>
+				<refs nrefs='2-10 | 3-12'></refs>
+			</w>
+			<w n='1-8'>
+				<text>εξ</text>
+				<refs nrefs='2-12 | 3-15'></refs>
+			</w>
+			<w n='1-9'>
+				<text>ηρωϊκου</text>
+				<refs nrefs='2-14 | 3-17'></refs>
+			</w>
+			<w n='1-10'>
+				<text>προσώπου</text>
+				<refs nrefs='2-13 2-15 | 3-18'></refs>
+			</w>
+			<w n='1-11'>
+				<text>εἶπεν</text>
+				<refs nrefs='2-8 2-9 | 3-10 3-9'></refs>
+			</w>
+			<w n='1-12'>
+				<text>ἔστι</text>
+				<refs nrefs='2-18 2-19 | 3-21 3-22'></refs>
+			</w>
+			<w n='1-13'>
+				<text>δὲ</text>
+				<refs nrefs='2-17 | 3-20'></refs>
+			</w>
+			<w n='1-14'>
+				<text>καὶ</text>
+				<refs nrefs='2-20 | 3-23'></refs>
+			</w>
+			<w n='1-15'>
+				<text>της</text>
+				<refs nrefs='2-25 2-26 | 3-27 3-28'></refs>
+			</w>
+			<w n='1-16'>
+				<text>Θεσπρωτείας</text>
+				<refs nrefs='2-25 2-26 | 3-27 3-28'></refs>
+			</w>
+			<w n='1-17'>
+				<text>Ἐφύρα</text>
+				<refs nrefs='2-23 2-24 | 3-26'></refs>
+			</w>
+			<w n='1-18'>
+				<text>πόλις</text>
+				<refs nrefs='2-22 | 3-24 3-25'></refs>
+			</w>
+			<w n='1-19'>
+				<text>.</text>
+				<refs nrefs='2-27 | 3-29'></refs>
+			</w>
+			<w n='1-20'>
+				<text>Ἄργος</text>
+				<refs nrefs='2-29 | 3-37'></refs>
+			</w>
+			<w n='1-21'>
+				<text>δὲ</text>
+				<refs nrefs='2-28 | 3-30'></refs>
+			</w>
+			<w n='1-22'>
+				<text>ἱπποβοτον</text>
+				<refs nrefs='2-34 | 3-36'></refs>
+			</w>
+			<w n='1-23'>
+				<text>την</text>
+				<refs nrefs='2-33 | 3-33'></refs>
+			</w>
+			<w n='1-24'>
+				<text>Πελοπόννησσον</text>
+				<refs nrefs='2-35 | 3-34'></refs>
+			</w>
+			<w n='1-25'>
+				<text>καλεῖ</text>
+				<refs nrefs='2-31 2-32 | 3-31 3-32'></refs>
+			</w>
+			<w n='1-26'>
+				<text>την</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='1-27'>
+				<text>δὲ</text>
+				<refs nrefs='2-37 | 3-40'></refs>
+			</w>
+			<w n='1-28'>
+				<text>Θετταλίαν</text>
+				<refs nrefs='2-38 | 3-41'></refs>
+			</w>
+			<w n='1-29'>
+				<text>Ἄργος</text>
+				<refs nrefs='2-42 | 3-44'></refs>
+			</w>
+			<w n='1-30'>
+				<text>Πελασγικόν</text>
+				<refs nrefs='2-41 | 3-43'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>There</text>
+				<refs nrefs='1-1 | 3-3'></refs>
+			</w>
+			<w n='2-2'>
+				<text>is</text>
+				<refs nrefs='1-1 | 3-3'></refs>
+			</w>
+			<w n='2-3'>
+				<text>a</text>
+				<refs nrefs='1-2 | 3-4'></refs>
+			</w>
+			<w n='2-4'>
+				<text>city</text>
+				<refs nrefs='1-2 | 3-4'></refs>
+			</w>
+			<w n='2-5'>
+				<text>Ephyra</text>
+				<refs nrefs='1-3 | 3-5'></refs>
+			</w>
+			<w n='2-6'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-7'>
+				<text>because</text>
+				<refs nrefs='1-4 | 3-8'></refs>
+			</w>
+			<w n='2-8'>
+				<text>he</text>
+				<refs nrefs='1-11 | 3-10 3-9'></refs>
+			</w>
+			<w n='2-9'>
+				<text>called</text>
+				<refs nrefs='1-11 | 3-10 3-9'></refs>
+			</w>
+			<w n='2-10'>
+				<text>Corinth</text>
+				<refs nrefs='1-7 | 3-12'></refs>
+			</w>
+			<w n='2-11'>
+				<text>Ephyra</text>
+				<refs nrefs='1-5 | 3-13 3-14'></refs>
+			</w>
+			<w n='2-12'>
+				<text>from</text>
+				<refs nrefs='1-8 | 3-15'></refs>
+			</w>
+			<w n='2-13'>
+				<text>a</text>
+				<refs nrefs='1-10 | 3-18'></refs>
+			</w>
+			<w n='2-14'>
+				<text>heroic</text>
+				<refs nrefs='1-9 | 3-17'></refs>
+			</w>
+			<w n='2-15'>
+				<text>figure</text>
+				<refs nrefs='1-10 | 3-18'></refs>
+			</w>
+			<w n='2-16'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-17'>
+				<text>But</text>
+				<refs nrefs='1-13 | 3-20'></refs>
+			</w>
+			<w n='2-18'>
+				<text>there</text>
+				<refs nrefs='1-12 | 3-21 3-22'></refs>
+			</w>
+			<w n='2-19'>
+				<text>is</text>
+				<refs nrefs='1-12 | 3-21 3-22'></refs>
+			</w>
+			<w n='2-20'>
+				<text>also</text>
+				<refs nrefs='1-14 | 3-23'></refs>
+			</w>
+			<w n='2-21'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-22'>
+				<text>city</text>
+				<refs nrefs='1-18 | 3-24 3-25'></refs>
+			</w>
+			<w n='2-23'>
+				<text>of</text>
+				<refs nrefs='1-17 | 3-26'></refs>
+			</w>
+			<w n='2-24'>
+				<text>Ephyra</text>
+				<refs nrefs='1-17 | 3-26'></refs>
+			</w>
+			<w n='2-25'>
+				<text>in</text>
+				<refs nrefs='1-15 1-16 | 3-27 3-28'></refs>
+			</w>
+			<w n='2-26'>
+				<text>Thesprotia</text>
+				<refs nrefs='1-15 1-16 | 3-27 3-28'></refs>
+			</w>
+			<w n='2-27'>
+				<text>.</text>
+				<refs nrefs='1-19 | 3-29'></refs>
+			</w>
+			<w n='2-28'>
+				<text>And</text>
+				<refs nrefs='1-21 | 3-30'></refs>
+			</w>
+			<w n='2-29'>
+				<text>Argos</text>
+				<refs nrefs='1-20 | 3-37'></refs>
+			</w>
+			<w n='2-30'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-31'>
+				<text>he</text>
+				<refs nrefs='1-25 | 3-31 3-32'></refs>
+			</w>
+			<w n='2-32'>
+				<text>calls</text>
+				<refs nrefs='1-25 | 3-31 3-32'></refs>
+			</w>
+			<w n='2-33'>
+				<text>the</text>
+				<refs nrefs='1-23 | 3-33'></refs>
+			</w>
+			<w n='2-34'>
+				<text>horse-feeding</text>
+				<refs nrefs='1-22 | 3-36'></refs>
+			</w>
+			<w n='2-35'>
+				<text>Peloponnese</text>
+				<refs nrefs='1-24 | 3-34'></refs>
+			</w>
+			<w n='2-36'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-37'>
+				<text>and</text>
+				<refs nrefs='1-27 | 3-40'></refs>
+			</w>
+			<w n='2-38'>
+				<text>Thessaly</text>
+				<refs nrefs='1-28 | 3-41'></refs>
+			</w>
+			<w n='2-39'>
+				<text>he</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-40'>
+				<text>calls</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-41'>
+				<text>Pelasgic</text>
+				<refs nrefs='1-30 | 3-43'></refs>
+			</w>
+			<w n='2-42'>
+				<text>Argos</text>
+				<refs nrefs='1-29 | 3-44'></refs>
+			</w>
+			<w n='2-43'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-2'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-3'>
+				<text>Esti</text>
+				<refs nrefs='1-1 | 2-1 2-2'></refs>
+			</w>
+			<w n='3-4'>
+				<text>polis</text>
+				<refs nrefs='1-2 | 2-3 2-4'></refs>
+			</w>
+			<w n='3-5'>
+				<text>Ephyre</text>
+				<refs nrefs='1-3 | 2-5'></refs>
+			</w>
+			<w n='3-6'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-7'>
+				<text>-</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-8'>
+				<text>because</text>
+				<refs nrefs='1-4 | 2-7'></refs>
+			</w>
+			<w n='3-9'>
+				<text>he</text>
+				<refs nrefs='1-11 | 2-8 2-9'></refs>
+			</w>
+			<w n='3-10'>
+				<text>speaks</text>
+				<refs nrefs='1-11 | 2-8 2-9'></refs>
+			</w>
+			<w n='3-11'>
+				<text>of</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-12'>
+				<text>Corinth</text>
+				<refs nrefs='1-7 | 2-10'></refs>
+			</w>
+			<w n='3-13'>
+				<text>as</text>
+				<refs nrefs='1-5 | 2-11'></refs>
+			</w>
+			<w n='3-14'>
+				<text>Ephyre</text>
+				<refs nrefs='1-5 | 2-11'></refs>
+			</w>
+			<w n='3-15'>
+				<text>from</text>
+				<refs nrefs='1-8 | 2-12'></refs>
+			</w>
+			<w n='3-16'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-17'>
+				<text>heroic</text>
+				<refs nrefs='1-9 | 2-14'></refs>
+			</w>
+			<w n='3-18'>
+				<text>age</text>
+				<refs nrefs='1-10 | 2-13 2-15'></refs>
+			</w>
+			<w n='3-19'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-20'>
+				<text>But</text>
+				<refs nrefs='1-13 | 2-17'></refs>
+			</w>
+			<w n='3-21'>
+				<text>there</text>
+				<refs nrefs='1-12 | 2-18 2-19'></refs>
+			</w>
+			<w n='3-22'>
+				<text>is</text>
+				<refs nrefs='1-12 | 2-18 2-19'></refs>
+			</w>
+			<w n='3-23'>
+				<text>also</text>
+				<refs nrefs='1-14 | 2-20'></refs>
+			</w>
+			<w n='3-24'>
+				<text>a</text>
+				<refs nrefs='1-18 | 2-22'></refs>
+			</w>
+			<w n='3-25'>
+				<text>city</text>
+				<refs nrefs='1-18 | 2-22'></refs>
+			</w>
+			<w n='3-26'>
+				<text>Ephyra</text>
+				<refs nrefs='1-17 | 2-23 2-24'></refs>
+			</w>
+			<w n='3-27'>
+				<text>in</text>
+				<refs nrefs='1-15 1-16 | 2-25 2-26'></refs>
+			</w>
+			<w n='3-28'>
+				<text>Thesprotia</text>
+				<refs nrefs='1-15 1-16 | 2-25 2-26'></refs>
+			</w>
+			<w n='3-29'>
+				<text>.</text>
+				<refs nrefs='1-19 | 2-27'></refs>
+			</w>
+			<w n='3-30'>
+				<text>And</text>
+				<refs nrefs='1-21 | 2-28'></refs>
+			</w>
+			<w n='3-31'>
+				<text>he</text>
+				<refs nrefs='1-25 | 2-31 2-32'></refs>
+			</w>
+			<w n='3-32'>
+				<text>calls</text>
+				<refs nrefs='1-25 | 2-31 2-32'></refs>
+			</w>
+			<w n='3-33'>
+				<text>the</text>
+				<refs nrefs='1-23 | 2-33'></refs>
+			</w>
+			<w n='3-34'>
+				<text>Peloponnese</text>
+				<refs nrefs='1-24 | 2-35'></refs>
+			</w>
+			<w n='3-35'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-36'>
+				<text>hippoboton</text>
+				<refs nrefs='1-22 | 2-34'></refs>
+			</w>
+			<w n='3-37'>
+				<text>Argos</text>
+				<refs nrefs='1-20 | 2-29'></refs>
+			</w>
+			<w n='3-38'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-39'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-40'>
+				<text>but</text>
+				<refs nrefs='1-27 | 2-37'></refs>
+			</w>
+			<w n='3-41'>
+				<text>Thessaly</text>
+				<refs nrefs='1-28 | 2-38'></refs>
+			</w>
+			<w n='3-42'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-43'>
+				<text>Pelasgic</text>
+				<refs nrefs='1-30 | 2-41'></refs>
+			</w>
+			<w n='3-44'>
+				<text>Argos</text>
+				<refs nrefs='1-29 | 2-42'></refs>
+			</w>
+			<w n='3-45'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-46'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

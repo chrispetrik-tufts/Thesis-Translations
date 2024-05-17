@@ -1,0 +1,89 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>Ἀρισταρχος</text>
+				<refs nrefs='2-1 | 3-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>ὥς</text>
+				<refs nrefs='2-2 2-3 | 3-7'></refs>
+			</w>
+			<w n='1-3'>
+				<text>κεν</text>
+				<refs nrefs=' | 3-8'></refs>
+			</w>
+			<w n='1-4'>
+				<text>Τυδέος</text>
+				<refs nrefs='2-4 2-5 | 3-9'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Aristarchus</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>as</text>
+				<refs nrefs='1-2 | 3-7'></refs>
+			</w>
+			<w n='2-3'>
+				<text>if</text>
+				<refs nrefs='1-2 | 3-7'></refs>
+			</w>
+			<w n='2-4'>
+				<text>of</text>
+				<refs nrefs='1-4 | 3-9'></refs>
+			</w>
+			<w n='2-5'>
+				<text>Tydeus</text>
+				<refs nrefs='1-4 | 3-9'></refs>
+			</w>
+			<w n='2-6'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>Aristarchus</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-2'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-3'>
+				<text>uses</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-4'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-5'>
+				<text>form</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-6'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-7'>
+				<text>‘hōs</text>
+				<refs nrefs='1-2 | 2-2 2-3'></refs>
+			</w>
+			<w n='3-8'>
+				<text>ken</text>
+				<refs nrefs='1-3 | '></refs>
+			</w>
+			<w n='3-9'>
+				<text>Tydeos’</text>
+				<refs nrefs='1-4 | 2-4 2-5'></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

@@ -1,0 +1,337 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>καὶ</text>
+				<refs nrefs='2-1 | 3-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>ἀπ</text>
+				<refs nrefs='2-2 | 3-2'></refs>
+			</w>
+			<w n='1-3'>
+				<text>'</text>
+				<refs nrefs='2-2 | 3-2'></refs>
+			</w>
+			<w n='1-4'>
+				<text>ὥμων</text>
+				<refs nrefs='2-6 | 3-4'></refs>
+			</w>
+			<w n='1-5'>
+				<text>τεύχε</text>
+				<refs nrefs='2-7 2-8 | 3-5 3-6'></refs>
+			</w>
+			<w n='1-6'>
+				<text>ἐσύλα</text>
+				<refs nrefs='2-10 | 3-8'></refs>
+			</w>
+			<w n='1-7'>
+				<text>καὶ</text>
+				<refs nrefs='2-12 | 3-9'></refs>
+			</w>
+			<w n='1-8'>
+				<text>ἀπεγύμνου</text>
+				<refs nrefs='2-13 2-14 | 3-10'></refs>
+			</w>
+			<w n='1-9'>
+				<text>τῶν</text>
+				<refs nrefs='2-18 | 3-11'></refs>
+			</w>
+			<w n='1-10'>
+				<text>ὤμων</text>
+				<refs nrefs='2-17 2-19 | 3-12'></refs>
+			</w>
+			<w n='1-11'>
+				<text>τὰ</text>
+				<refs nrefs='2-15 | 3-14'></refs>
+			</w>
+			<w n='1-12'>
+				<text>ὅπλα</text>
+				<refs nrefs='2-16 | 3-13 3-15'></refs>
+			</w>
+			<w n='1-13'>
+				<text>.</text>
+				<refs nrefs='2-20 | 3-16'></refs>
+			</w>
+			<w n='1-14'>
+				<text>ἔστι</text>
+				<refs nrefs='2-22 2-23 | 3-18 3-19'></refs>
+			</w>
+			<w n='1-15'>
+				<text>δὲ</text>
+				<refs nrefs='2-21 | 3-17'></refs>
+			</w>
+			<w n='1-16'>
+				<text>ὑπερβατὸν</text>
+				<refs nrefs='2-24 2-25 | 3-20 3-21'></refs>
+			</w>
+			<w n='1-17'>
+				<text>και</text>
+				<refs nrefs='2-26 | 3-22'></refs>
+			</w>
+			<w n='1-18'>
+				<text>συνεκδοχῇ</text>
+				<refs nrefs='2-27 2-28 | 3-23'></refs>
+			</w>
+			<w n='1-19'>
+				<text>ὅλου</text>
+				<refs nrefs='2-31 | 3-26'></refs>
+			</w>
+			<w n='1-20'>
+				<text>τοῦ</text>
+				<refs nrefs='2-30 | 3-25'></refs>
+			</w>
+			<w n='1-21'>
+				<text>σώματος</text>
+				<refs nrefs='2-29 2-32 | 3-24 3-27'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>and</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>from</text>
+				<refs nrefs='1-2 1-3 | 3-2'></refs>
+			</w>
+			<w n='2-3'>
+				<text>[</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-4'>
+				<text>their</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-5'>
+				<text>]</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-6'>
+				<text>shoulders</text>
+				<refs nrefs='1-4 | 3-4'></refs>
+			</w>
+			<w n='2-7'>
+				<text>he</text>
+				<refs nrefs='1-5 | 3-5 3-6'></refs>
+			</w>
+			<w n='2-8'>
+				<text>stripped</text>
+				<refs nrefs='1-5 | 3-5 3-6'></refs>
+			</w>
+			<w n='2-9'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-10'>
+				<text>armor</text>
+				<refs nrefs='1-6 | 3-8'></refs>
+			</w>
+			<w n='2-11'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-12'>
+				<text>and</text>
+				<refs nrefs='1-7 | 3-9'></refs>
+			</w>
+			<w n='2-13'>
+				<text>he</text>
+				<refs nrefs='1-8 | 3-10'></refs>
+			</w>
+			<w n='2-14'>
+				<text>undressed</text>
+				<refs nrefs='1-8 | 3-10'></refs>
+			</w>
+			<w n='2-15'>
+				<text>the</text>
+				<refs nrefs='1-11 | 3-14'></refs>
+			</w>
+			<w n='2-16'>
+				<text>arms</text>
+				<refs nrefs='1-12 | 3-13 3-15'></refs>
+			</w>
+			<w n='2-17'>
+				<text>from</text>
+				<refs nrefs='1-10 | 3-12'></refs>
+			</w>
+			<w n='2-18'>
+				<text>the</text>
+				<refs nrefs='1-9 | 3-11'></refs>
+			</w>
+			<w n='2-19'>
+				<text>shoulders</text>
+				<refs nrefs='1-10 | 3-12'></refs>
+			</w>
+			<w n='2-20'>
+				<text>.</text>
+				<refs nrefs='1-13 | 3-16'></refs>
+			</w>
+			<w n='2-21'>
+				<text>But</text>
+				<refs nrefs='1-15 | 3-17'></refs>
+			</w>
+			<w n='2-22'>
+				<text>it</text>
+				<refs nrefs='1-14 | 3-18 3-19'></refs>
+			</w>
+			<w n='2-23'>
+				<text>is</text>
+				<refs nrefs='1-14 | 3-18 3-19'></refs>
+			</w>
+			<w n='2-24'>
+				<text>a</text>
+				<refs nrefs='1-16 | 3-20 3-21'></refs>
+			</w>
+			<w n='2-25'>
+				<text>hyperbaton</text>
+				<refs nrefs='1-16 | 3-20 3-21'></refs>
+			</w>
+			<w n='2-26'>
+				<text>and</text>
+				<refs nrefs='1-17 | 3-22'></refs>
+			</w>
+			<w n='2-27'>
+				<text>a</text>
+				<refs nrefs='1-18 | 3-23'></refs>
+			</w>
+			<w n='2-28'>
+				<text>synecdoche</text>
+				<refs nrefs='1-18 | 3-23'></refs>
+			</w>
+			<w n='2-29'>
+				<text>of</text>
+				<refs nrefs='1-21 | 3-24 3-27'></refs>
+			</w>
+			<w n='2-30'>
+				<text>the</text>
+				<refs nrefs='1-20 | 3-25'></refs>
+			</w>
+			<w n='2-31'>
+				<text>whole</text>
+				<refs nrefs='1-19 | 3-26'></refs>
+			</w>
+			<w n='2-32'>
+				<text>body</text>
+				<refs nrefs='1-21 | 3-24 3-27'></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>And</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-2'>
+				<text>from</text>
+				<refs nrefs='1-2 1-3 | 2-2'></refs>
+			</w>
+			<w n='3-3'>
+				<text>his</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-4'>
+				<text>shoulders</text>
+				<refs nrefs='1-4 | 2-6'></refs>
+			</w>
+			<w n='3-5'>
+				<text>he</text>
+				<refs nrefs='1-5 | 2-7 2-8'></refs>
+			</w>
+			<w n='3-6'>
+				<text>stripped</text>
+				<refs nrefs='1-5 | 2-7 2-8'></refs>
+			</w>
+			<w n='3-7'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-8'>
+				<text>armor</text>
+				<refs nrefs='1-6 | 2-10'></refs>
+			</w>
+			<w n='3-9'>
+				<text>and</text>
+				<refs nrefs='1-7 | 2-12'></refs>
+			</w>
+			<w n='3-10'>
+				<text>bared</text>
+				<refs nrefs='1-8 | 2-13 2-14'></refs>
+			</w>
+			<w n='3-11'>
+				<text>the</text>
+				<refs nrefs='1-9 | 2-18'></refs>
+			</w>
+			<w n='3-12'>
+				<text>shoulders</text>
+				<refs nrefs='1-10 | 2-17 2-19'></refs>
+			</w>
+			<w n='3-13'>
+				<text>of</text>
+				<refs nrefs='1-12 | 2-16'></refs>
+			</w>
+			<w n='3-14'>
+				<text>their</text>
+				<refs nrefs='1-11 | 2-15'></refs>
+			</w>
+			<w n='3-15'>
+				<text>arms</text>
+				<refs nrefs='1-12 | 2-16'></refs>
+			</w>
+			<w n='3-16'>
+				<text>.</text>
+				<refs nrefs='1-13 | 2-20'></refs>
+			</w>
+			<w n='3-17'>
+				<text>And</text>
+				<refs nrefs='1-15 | 2-21'></refs>
+			</w>
+			<w n='3-18'>
+				<text>it</text>
+				<refs nrefs='1-14 | 2-22 2-23'></refs>
+			</w>
+			<w n='3-19'>
+				<text>is</text>
+				<refs nrefs='1-14 | 2-22 2-23'></refs>
+			</w>
+			<w n='3-20'>
+				<text>a</text>
+				<refs nrefs='1-16 | 2-24 2-25'></refs>
+			</w>
+			<w n='3-21'>
+				<text>hyperbaton</text>
+				<refs nrefs='1-16 | 2-24 2-25'></refs>
+			</w>
+			<w n='3-22'>
+				<text>and</text>
+				<refs nrefs='1-17 | 2-26'></refs>
+			</w>
+			<w n='3-23'>
+				<text>synecdoche</text>
+				<refs nrefs='1-18 | 2-27 2-28'></refs>
+			</w>
+			<w n='3-24'>
+				<text>of</text>
+				<refs nrefs='1-21 | 2-29 2-32'></refs>
+			</w>
+			<w n='3-25'>
+				<text>the</text>
+				<refs nrefs='1-20 | 2-30'></refs>
+			</w>
+			<w n='3-26'>
+				<text>whole</text>
+				<refs nrefs='1-19 | 2-31'></refs>
+			</w>
+			<w n='3-27'>
+				<text>body</text>
+				<refs nrefs='1-21 | 2-29 2-32'></refs>
+			</w>
+			<w n='3-28'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

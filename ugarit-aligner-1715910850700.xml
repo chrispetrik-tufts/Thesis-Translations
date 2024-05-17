@@ -1,0 +1,105 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>οτι</text>
+				<refs nrefs='2-1 | 3-1'></refs>
+			</w>
+			<w n='1-2'>
+				<text>ἐπὶβολην</text>
+				<refs nrefs='2-3 2-4 | 3-3 3-4'></refs>
+			</w>
+			<w n='1-3'>
+				<text>ποίούμενος</text>
+				<refs nrefs='2-2 | 3-2'></refs>
+			</w>
+			<w n='1-4'>
+				<text>εἰς</text>
+				<refs nrefs='2-5 | 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='1-5'>
+				<text>ρεσιν⁑</text>
+				<refs nrefs='2-6 2-7 | 3-8 3-9'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Because</text>
+				<refs nrefs='1-1 | 3-1'></refs>
+			</w>
+			<w n='2-2'>
+				<text>making</text>
+				<refs nrefs='1-3 | 3-2'></refs>
+			</w>
+			<w n='2-3'>
+				<text>an</text>
+				<refs nrefs='1-2 | 3-3 3-4'></refs>
+			</w>
+			<w n='2-4'>
+				<text>imposition</text>
+				<refs nrefs='1-2 | 3-3 3-4'></refs>
+			</w>
+			<w n='2-5'>
+				<text>into</text>
+				<refs nrefs='1-4 | 3-5 3-6 3-7'></refs>
+			</w>
+			<w n='2-6'>
+				<text>the</text>
+				<refs nrefs='1-5 | 3-8 3-9'></refs>
+			</w>
+			<w n='2-7'>
+				<text>matter</text>
+				<refs nrefs='1-5 | 3-8 3-9'></refs>
+			</w>
+			<w n='2-8'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-1'>
+				<text>That</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-2'>
+				<text>making</text>
+				<refs nrefs='1-3 | 2-2'></refs>
+			</w>
+			<w n='3-3'>
+				<text>an</text>
+				<refs nrefs='1-2 | 2-3 2-4'></refs>
+			</w>
+			<w n='3-4'>
+				<text>attack</text>
+				<refs nrefs='1-2 | 2-3 2-4'></refs>
+			</w>
+			<w n='3-5'>
+				<text>for</text>
+				<refs nrefs='1-4 | 2-5'></refs>
+			</w>
+			<w n='3-6'>
+				<text>the</text>
+				<refs nrefs='1-4 | 2-5'></refs>
+			</w>
+			<w n='3-7'>
+				<text>purpose</text>
+				<refs nrefs='1-4 | 2-5'></refs>
+			</w>
+			<w n='3-8'>
+				<text>of</text>
+				<refs nrefs='1-5 | 2-6 2-7'></refs>
+			</w>
+			<w n='3-9'>
+				<text>flow</text>
+				<refs nrefs='1-5 | 2-6 2-7'></refs>
+			</w>
+			<w n='3-10'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>

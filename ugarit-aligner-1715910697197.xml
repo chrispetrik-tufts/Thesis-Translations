@@ -1,0 +1,197 @@
+<aligned-text>
+	<language lnum="L1" xml:lang="GRC"/>
+	<language lnum="L2" xml:lang="ENG"/>
+	<language lnum="L3" xml:lang="ENG"/>
+	<sentence n="1">
+		<wds lnum="L1">
+			<w n='1-1'>
+				<text>οτι</text>
+				<refs nrefs='2-1 | 3-3'></refs>
+			</w>
+			<w n='1-2'>
+				<text>πρώτῳ</text>
+				<refs nrefs='2-2 2-3 | 3-4 3-5 3-6'></refs>
+			</w>
+			<w n='1-3'>
+				<text>αντι</text>
+				<refs nrefs='2-5 2-6 | 3-7 3-8'></refs>
+			</w>
+			<w n='1-4'>
+				<text>τοῦ</text>
+				<refs nrefs='2-5 2-6 | 3-7 3-8'></refs>
+			</w>
+			<w n='1-5'>
+				<text>ἄκρω</text>
+				<refs nrefs='2-7 2-8 2-9 | 3-10 3-11 3-12 3-9'></refs>
+			</w>
+			<w n='1-6'>
+				<text>καὶ</text>
+				<refs nrefs='2-11 | 3-14'></refs>
+			</w>
+			<w n='1-7'>
+				<text>οτι</text>
+				<refs nrefs='2-12 | 3-15'></refs>
+			</w>
+			<w n='1-8'>
+				<text>εἰς</text>
+				<refs nrefs='2-13 | 3-17'></refs>
+			</w>
+			<w n='1-9'>
+				<text>ῥυμός</text>
+				<refs nrefs='2-14 2-15 | 3-16 3-19 3-20'></refs>
+			</w>
+		</wds>
+		<wds lnum="L2">
+			<w n='2-1'>
+				<text>Because</text>
+				<refs nrefs='1-1 | 3-3'></refs>
+			</w>
+			<w n='2-2'>
+				<text>at</text>
+				<refs nrefs='1-2 | 3-4 3-5 3-6'></refs>
+			</w>
+			<w n='2-3'>
+				<text>first</text>
+				<refs nrefs='1-2 | 3-4 3-5 3-6'></refs>
+			</w>
+			<w n='2-4'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-5'>
+				<text>instead</text>
+				<refs nrefs='1-3 1-4 | 3-7 3-8'></refs>
+			</w>
+			<w n='2-6'>
+				<text>of</text>
+				<refs nrefs='1-3 1-4 | 3-7 3-8'></refs>
+			</w>
+			<w n='2-7'>
+				<text>at</text>
+				<refs nrefs='1-5 | 3-10 3-11 3-12 3-9'></refs>
+			</w>
+			<w n='2-8'>
+				<text>the</text>
+				<refs nrefs='1-5 | 3-10 3-11 3-12 3-9'></refs>
+			</w>
+			<w n='2-9'>
+				<text>extreme</text>
+				<refs nrefs='1-5 | 3-10 3-11 3-12 3-9'></refs>
+			</w>
+			<w n='2-10'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='2-11'>
+				<text>and</text>
+				<refs nrefs='1-6 | 3-14'></refs>
+			</w>
+			<w n='2-12'>
+				<text>because</text>
+				<refs nrefs='1-7 | 3-15'></refs>
+			</w>
+			<w n='2-13'>
+				<text>into</text>
+				<refs nrefs='1-8 | 3-17'></refs>
+			</w>
+			<w n='2-14'>
+				<text>a</text>
+				<refs nrefs='1-9 | 3-16 3-19 3-20'></refs>
+			</w>
+			<w n='2-15'>
+				<text>channel</text>
+				<refs nrefs='1-9 | 3-16 3-19 3-20'></refs>
+			</w>
+			<w n='2-16'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+		<wds lnum="L3">
+			<w n='3-2'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-3'>
+				<text>That</text>
+				<refs nrefs='1-1 | 2-1'></refs>
+			</w>
+			<w n='3-4'>
+				<text>'</text>
+				<refs nrefs='1-2 | 2-2 2-3'></refs>
+			</w>
+			<w n='3-5'>
+				<text>first</text>
+				<refs nrefs='1-2 | 2-2 2-3'></refs>
+			</w>
+			<w n='3-6'>
+				<text>'</text>
+				<refs nrefs='1-2 | 2-2 2-3'></refs>
+			</w>
+			<w n='3-7'>
+				<text>instead</text>
+				<refs nrefs='1-3 1-4 | 2-5 2-6'></refs>
+			</w>
+			<w n='3-8'>
+				<text>of</text>
+				<refs nrefs='1-3 1-4 | 2-5 2-6'></refs>
+			</w>
+			<w n='3-9'>
+				<text>'</text>
+				<refs nrefs='1-5 | 2-7 2-8 2-9'></refs>
+			</w>
+			<w n='3-10'>
+				<text>highest</text>
+				<refs nrefs='1-5 | 2-7 2-8 2-9'></refs>
+			</w>
+			<w n='3-11'>
+				<text>peak</text>
+				<refs nrefs='1-5 | 2-7 2-8 2-9'></refs>
+			</w>
+			<w n='3-12'>
+				<text>'</text>
+				<refs nrefs='1-5 | 2-7 2-8 2-9'></refs>
+			</w>
+			<w n='3-13'>
+				<text>,</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-14'>
+				<text>and</text>
+				<refs nrefs='1-6 | 2-11'></refs>
+			</w>
+			<w n='3-15'>
+				<text>that</text>
+				<refs nrefs='1-7 | 2-12'></refs>
+			</w>
+			<w n='3-16'>
+				<text>'</text>
+				<refs nrefs='1-9 | 2-14 2-15'></refs>
+			</w>
+			<w n='3-17'>
+				<text>towards</text>
+				<refs nrefs='1-8 | 2-13'></refs>
+			</w>
+			<w n='3-18'>
+				<text>the</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-19'>
+				<text>stream</text>
+				<refs nrefs='1-9 | 2-14 2-15'></refs>
+			</w>
+			<w n='3-20'>
+				<text>'</text>
+				<refs nrefs='1-9 | 2-14 2-15'></refs>
+			</w>
+			<w n='3-21'>
+				<text>.</text>
+				<refs nrefs=''></refs>
+			</w>
+			<w n='3-22'>
+				<text>"</text>
+				<refs nrefs=''></refs>
+			</w>
+		</wds>
+	</sentence>
+</aligned-text>
